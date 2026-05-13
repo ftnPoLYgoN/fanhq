@@ -52,7 +52,7 @@
   ],
   "daten_nachschlagen": [
     {
-      "url": "https://www.transfermarkt.de/spvgg-greuther-furth/startseite/verein/203",
+      "url": "https://www.transfermarkt.de/spvgg-greuther-furth/startseite/verein/65",
       "name": "Transfermarkt Profil",
       "category": "stats",
       "source_type": "transfer-data",
@@ -82,7 +82,7 @@
   ],
   "metadaten": {
     "last_checked": "2026-04-09T03:00:00Z",
-    "confidence": 1.0,
+    "confidence": 1,
     "notes": "Daten für Batch 2 aktualisiert.",
     "missing_fields": [],
     "update_priority": "medium"
