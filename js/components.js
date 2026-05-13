@@ -59,6 +59,22 @@ const Components = (() => {
     const b = data.basisdaten;
     const leagueClass = b.league;
 
+    let scheduleUrl = '';
+    const tmSource = data.daten_nachschlagen?.find(s => s.url.includes('transfermarkt.de'));
+    if (tmSource) {
+      scheduleUrl = tmSource.url.replace('/startseite/', '/spielplan/');
+    } else {
+      scheduleUrl = `https://www.kicker.de/${leagueClass === 'zweite-bundesliga' ? '2-bundesliga' : leagueClass}/spieltag`;
+    }
+    const tableUrl = `https://www.kicker.de/${leagueClass === 'zweite-bundesliga' ? '2-bundesliga' : leagueClass}/tabelle`;
+
+    const actionButtonsHTML = `
+      <div class="detail-actions">
+        <a href="${tableUrl}" target="_blank" rel="noopener noreferrer" class="action-btn">📊 Aktuelle Tabelle</a>
+        <a href="${scheduleUrl}" target="_blank" rel="noopener noreferrer" class="action-btn">🗓️ Nächste Spiele</a>
+      </div>
+    `;
+
     const statsHTML = `
       <div class="detail-stats">
         <div class="detail-stat">
@@ -114,6 +130,7 @@ const Components = (() => {
           ${stadiumInfo}
         </div>
       </div>
+      ${actionButtonsHTML}
       ${statsHTML}
       ${sectionsHTML}
     `;
