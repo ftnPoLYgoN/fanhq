@@ -64,21 +64,46 @@ const Components = (() => {
     const dynamicStyles = `
       <style>
         .detail-panel {
-          border-top: 4px solid ${c1} !important;
-          box-shadow: 0 10px 40px ${c1}22 !important;
+          border-top: 6px solid ${c1} !important;
+          box-shadow: 0 10px 50px ${c1}33 !important;
+          background: linear-gradient(180deg, ${c1}15 0%, var(--bg-secondary) 180px) !important;
         }
         .detail-avatar {
           background: linear-gradient(135deg, ${c1}, ${c2}) !important;
-          box-shadow: 0 0 20px ${c1}44;
-          color: ${c1 === '#f8fafc' ? '#0f172a' : '#ffffff'} !important;
+          box-shadow: 0 0 25px ${c1}66;
+          color: ${c1 === '#f8fafc' || c1 === '#facc15' ? '#0f172a' : '#ffffff'} !important;
+          border: 2px solid rgba(255,255,255,0.1);
+        }
+        .detail-hero-text h2 {
+          background: linear-gradient(135deg, ${c1}, ${c2 !== c1 ? c2 : '#ffffff'});
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          text-shadow: 0 2px 10px ${c1}33;
+        }
+        .action-btn {
+          background: linear-gradient(135deg, ${c1}, ${c2}) !important;
+          color: ${c1 === '#f8fafc' || c1 === '#facc15' ? '#0f172a' : '#ffffff'} !important;
+          border: none !important;
+          box-shadow: 0 4px 15px ${c1}44 !important;
+          text-shadow: ${c1 === '#f8fafc' || c1 === '#facc15' ? 'none' : '0 1px 2px rgba(0,0,0,0.3)'};
         }
         .action-btn:hover {
-          background: ${c1}15 !important;
-          border-color: ${c1} !important;
+          transform: translateY(-2px) scale(1.02);
+          box-shadow: 0 6px 20px ${c1}66 !important;
+          filter: brightness(1.1);
         }
         .league-badge.${leagueClass} {
-          background: ${c1}22 !important;
+          background: ${c1}33 !important;
           color: ${c1 === '#1e293b' || c1 === '#f8fafc' ? 'var(--text-primary)' : c1} !important;
+          border: 1px solid ${c1}66;
+        }
+        .detail-stat {
+          border-color: ${c1}22 !important;
+          background: ${c1}08 !important;
+        }
+        .source-item:hover {
+          border-color: ${c1}55 !important;
+          background: ${c1}11 !important;
         }
       </style>
     `;
