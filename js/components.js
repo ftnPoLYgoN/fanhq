@@ -59,6 +59,30 @@ const Components = (() => {
     const b = data.basisdaten;
     const leagueClass = b.league;
 
+    const [c1, c2] = getClubHexColors(b.primary_colors_text, leagueClass);
+
+    const dynamicStyles = `
+      <style>
+        .detail-panel {
+          border-top: 4px solid ${c1} !important;
+          box-shadow: 0 10px 40px ${c1}22 !important;
+        }
+        .detail-avatar {
+          background: linear-gradient(135deg, ${c1}, ${c2}) !important;
+          box-shadow: 0 0 20px ${c1}44;
+          color: ${c1 === '#f8fafc' ? '#0f172a' : '#ffffff'} !important;
+        }
+        .action-btn:hover {
+          background: ${c1}15 !important;
+          border-color: ${c1} !important;
+        }
+        .league-badge.${leagueClass} {
+          background: ${c1}22 !important;
+          color: ${c1 === '#1e293b' || c1 === '#f8fafc' ? 'var(--text-primary)' : c1} !important;
+        }
+      </style>
+    `;
+
     let scheduleUrl = '';
     const tmSource = data.daten_nachschlagen?.find(s => s.url.includes('transfermarkt.de'));
     if (tmSource) {
@@ -120,8 +144,9 @@ const Components = (() => {
       : '';
 
     return `
+      ${dynamicStyles}
       <div class="detail-hero">
-        <div class="detail-avatar" style="background:linear-gradient(135deg,${getLeagueColor(leagueClass)});">
+        <div class="detail-avatar">
           ${getInitials(b.name)}
         </div>
         <div class="detail-hero-text">
@@ -143,6 +168,35 @@ const Components = (() => {
       'dritte-liga': 'var(--accent-3l), #059669'
     };
     return colors[league] || 'var(--text-accent), #0284c7';
+  }
+
+  function getClubHexColors(colorText, league) {
+    const fallback = {
+      'bundesliga': ['#e11d48', '#be123c'],
+      'zweite-bundesliga': ['#f59e0b', '#d97706'],
+      'dritte-liga': ['#10b981', '#059669']
+    };
+    if (!colorText) return fallback[league] || ['#38bdf8', '#0284c7'];
+    
+    const colors = colorText.toLowerCase().replace(/ß/g, 'ss').split(/,\s*/).map(c => c.trim());
+    
+    const COLOR_MAP = {
+      'rot': '#ef4444',
+      'weiss': '#f8fafc',
+      'blau': '#3b82f6',
+      'schwarz': '#1e293b',
+      'gelb': '#facc15',
+      'grün': '#22c55e',
+      'gruen': '#22c55e',
+      'braun': '#78350f',
+      'weinrot': '#9f1239',
+      'lila': '#a855f7'
+    };
+
+    const hexes = colors.map(c => COLOR_MAP[c]).filter(Boolean);
+    if (hexes.length === 0) return fallback[league] || ['#38bdf8', '#0284c7'];
+    if (hexes.length === 1) return [hexes[0], hexes[0]];
+    return [hexes[0], hexes[1]];
   }
 
   function renderNoResults(query) {
