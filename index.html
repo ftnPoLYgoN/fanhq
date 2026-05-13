@@ -19,7 +19,9 @@
       </div>
       <div class="search-container">
         <span class="search-icon">🔍</span>
-        <input type="text" class="search-input" id="search-input" placeholder="Verein suchen…" autocomplete="off">
+        <form id="search-form" onsubmit="return false;" style="margin:0; width:100%;">
+          <input type="search" class="search-input" id="search-input" placeholder="Verein suchen…" autocomplete="off">
+        </form>
       </div>
     </div>
   </header>

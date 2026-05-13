@@ -9,6 +9,7 @@
   const grid = document.getElementById('club-grid');
   const tabs = document.getElementById('league-tabs');
   const searchInput = document.getElementById('search-input');
+  const searchForm = document.getElementById('search-form');
   const overlay = document.getElementById('detail-overlay');
   const detailContent = document.getElementById('detail-content');
   const detailClose = document.getElementById('detail-close');
@@ -43,6 +44,20 @@
       currentQuery = searchInput.value;
       applyFilters();
     }, 200);
+  });
+
+  searchForm.addEventListener('submit', (e) => {
+    e.preventDefault();
+    searchInput.blur(); // Tastatur schließen
+    
+    // Sofortige Suche ohne Delay
+    clearTimeout(searchTimeout);
+    currentQuery = searchInput.value;
+    applyFilters();
+    
+    // Smooth scroll zu den Ergebnissen
+    const offset = grid.getBoundingClientRect().top + window.scrollY - 100;
+    window.scrollTo({ top: offset, behavior: 'smooth' });
   });
 
   // --- Logo Home ---
