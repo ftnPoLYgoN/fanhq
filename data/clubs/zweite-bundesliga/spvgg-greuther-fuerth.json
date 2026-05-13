@@ -1,0 +1,90 @@
+{
+  "basisdaten": {
+    "id": "spvgg-greuther-fuerth",
+    "slug": "spvgg-greuther-fuerth",
+    "name": "SpVgg Greuther Fürth",
+    "short_name": "Kleeblatt",
+    "sport": "fussball",
+    "country": "deutschland",
+    "league": "zweite-bundesliga",
+    "city": "Fürth",
+    "federal_state": "Bayern",
+    "stadium_name": "Sportpark Ronhof | Thomas Sommer",
+    "stadium_location": "Laubenweg 60, 90765 Fürth",
+    "stadium_capacity": 16626,
+    "primary_colors_text": "Grün, Weiß"
+  },
+  "offizielle_quellen": [
+    {
+      "url": "https://www.sgf1903.de",
+      "name": "Offizielle Website",
+      "category": "official",
+      "source_type": "official-club-site",
+      "trust_level": "official",
+      "notes": null
+    },
+    {
+      "url": "https://shop.sgf1903.de",
+      "name": "Kleeblatt Fanshop",
+      "category": "official",
+      "source_type": "official-fanshop",
+      "trust_level": "official",
+      "notes": null
+    },
+    {
+      "url": "https://www.instagram.com/kleeblatt_fuerth_offiziell",
+      "name": "Instagram",
+      "category": "official",
+      "source_type": "official-social",
+      "trust_level": "official",
+      "notes": null
+    }
+  ],
+  "inoffizielle_quellen": [
+    {
+      "url": "https://www.nordbayern.de/sport/greuther-furth",
+      "name": "Nordbayern (SGF)",
+      "category": "fan",
+      "source_type": "fan-blog",
+      "trust_level": "unofficial",
+      "notes": "Lokale Berichterstattung"
+    }
+  ],
+  "daten_nachschlagen": [
+    {
+      "url": "https://www.transfermarkt.de/spvgg-greuther-furth/startseite/verein/203",
+      "name": "Transfermarkt Profil",
+      "category": "stats",
+      "source_type": "transfer-data",
+      "trust_level": "trusted-third-party",
+      "notes": null
+    }
+  ],
+  "medien_berichterstattung": [
+    {
+      "url": "https://www.kicker.de/spvgg-greuther-fuerth/info",
+      "name": "Kicker (Fürth)",
+      "category": "media",
+      "source_type": "local-media",
+      "trust_level": "trusted-third-party",
+      "notes": null
+    }
+  ],
+  "stadion_matchday": [
+    {
+      "url": "https://www.sgf1903.de/stadion/anreise",
+      "name": "Anreise Ronhof",
+      "category": "stadium",
+      "source_type": "travel-info",
+      "trust_level": "official",
+      "notes": null
+    }
+  ],
+  "metadaten": {
+    "last_checked": "2026-04-09T03:00:00Z",
+    "confidence": 1.0,
+    "notes": "Daten für Batch 2 aktualisiert.",
+    "missing_fields": [],
+    "update_priority": "medium"
+  }
+}

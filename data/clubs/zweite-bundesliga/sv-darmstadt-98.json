@@ -1,0 +1,90 @@
+{
+    "basisdaten": {
+      "id": "sv-darmstadt-98",
+      "slug": "sv-darmstadt-98",
+      "name": "SV Darmstadt 98",
+      "short_name": "Lilien",
+      "sport": "fussball",
+      "country": "deutschland",
+      "league": "zweite-bundesliga",
+      "city": "Darmstadt",
+      "federal_state": "Hessen",
+      "stadium_name": "Merck-Stadion am Böllenfalltor",
+      "stadium_location": "Nieder-Ramstädter Str. 170, 64285 Darmstadt",
+      "stadium_capacity": 17810,
+      "primary_colors_text": "Blau, Weiß"
+    },
+    "offizielle_quellen": [
+      {
+        "url": "https://www.sv98.de",
+        "name": "Offizielle Website",
+        "category": "official",
+        "source_type": "official-club-site",
+        "trust_level": "official",
+        "notes": null
+      },
+      {
+        "url": "https://shop.sv98.de",
+        "name": "Lilien-Fanshop",
+        "category": "official",
+        "source_type": "official-fanshop",
+        "trust_level": "official",
+        "notes": null
+      },
+      {
+        "url": "https://www.instagram.com/svdarmstadt1898",
+        "name": "Instagram",
+        "category": "official",
+        "source_type": "official-social",
+        "trust_level": "official",
+        "notes": null
+      }
+    ],
+    "inoffizielle_quellen": [
+      {
+        "url": "https://www.lilienblog.de",
+        "name": "Lilienblog",
+        "category": "fan",
+        "source_type": "fan-blog",
+        "trust_level": "unofficial",
+        "notes": "Online-Magazin"
+      }
+    ],
+    "daten_nachschlagen": [
+      {
+        "url": "https://www.transfermarkt.de/sv-darmstadt-98/startseite/verein/136",
+        "name": "Transfermarkt Profil",
+        "category": "stats",
+        "source_type": "transfer-data",
+        "trust_level": "trusted-third-party",
+        "notes": null
+      }
+    ],
+    "medien_berichterstattung": [
+      {
+        "url": "https://www.echo-online.de/sport/fussball/sv-darmstadt-98",
+        "name": "Darmstädter Echo (SVD)",
+        "category": "media",
+        "source_type": "local-media",
+        "trust_level": "trusted-third-party",
+        "notes": null
+      }
+    ],
+    "stadion_matchday": [
+      {
+        "url": "https://www.sv98.de/stadion/anreise-parken",
+        "name": "Anreise Böllenfalltor",
+        "category": "stadium",
+        "source_type": "travel-info",
+        "trust_level": "official",
+        "notes": null
+      }
+    ],
+    "metadaten": {
+      "last_checked": "2026-04-09T02:32:00Z",
+      "confidence": 1.0,
+      "notes": "Daten für Batch 2 aktualisiert.",
+      "missing_fields": [],
+      "update_priority": "medium"
+    }
+}

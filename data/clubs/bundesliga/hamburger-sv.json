@@ -1,0 +1,90 @@
+{
+  "basisdaten": {
+    "id": "hamburger-sv",
+    "slug": "hamburger-sv",
+    "name": "Hamburger SV",
+    "short_name": "HSV",
+    "sport": "fussball",
+    "country": "deutschland",
+    "league": "bundesliga",
+    "city": "Hamburg",
+    "federal_state": "Hamburg",
+    "stadium_name": "Volksparkstadion",
+    "stadium_location": "Sylvesterallee 7, 22525 Hamburg",
+    "stadium_capacity": 57000,
+    "primary_colors_text": "Blau, Weiß, Schwarz"
+  },
+  "offizielle_quellen": [
+    {
+      "url": "https://www.hsv.de",
+      "name": "Offizielle Website",
+      "category": "official",
+      "source_type": "official-club-site",
+      "trust_level": "official",
+      "notes": null
+    },
+    {
+      "url": "https://shop.hsv.de",
+      "name": "HSV Onlineshop",
+      "category": "official",
+      "source_type": "official-fanshop",
+      "trust_level": "official",
+      "notes": null
+    },
+    {
+      "url": "https://www.instagram.com/hsv",
+      "name": "Instagram",
+      "category": "official",
+      "source_type": "official-social",
+      "trust_level": "official",
+      "notes": null
+    }
+  ],
+  "inoffizielle_quellen": [
+    {
+      "url": "https://www.hsv-arena.de",
+      "name": "HSV-Arena",
+      "category": "fan",
+      "source_type": "fan-blog",
+      "trust_level": "unofficial",
+      "notes": "Fan-Blog"
+    }
+  ],
+  "daten_nachschlagen": [
+    {
+      "url": "https://www.transfermarkt.de/hamburger-sv/startseite/verein/41",
+      "name": "Transfermarkt Profil",
+      "category": "stats",
+      "source_type": "transfer-data",
+      "trust_level": "trusted-third-party",
+      "notes": null
+    }
+  ],
+  "medien_berichterstattung": [
+    {
+      "url": "https://www.abendblatt.de/sport/hsv",
+      "name": "Hamburger Abendblatt (HSV)",
+      "category": "media",
+      "source_type": "local-media",
+      "trust_level": "trusted-third-party",
+      "notes": null
+    }
+  ],
+  "stadion_matchday": [
+    {
+      "url": "https://www.hsv.de/volksparkstadion/anreise",
+      "name": "Anreise Volksparkstadion",
+      "category": "stadium",
+      "source_type": "travel-info",
+      "trust_level": "official",
+      "notes": null
+    }
+  ],
+  "metadaten": {
+    "last_checked": "2026-04-09T02:30:00Z",
+    "confidence": 1.0,
+    "notes": "Daten für Batch 1 migriert (Aufstieg 25/26).",
+    "missing_fields": [],
+    "update_priority": "medium"
+  }
+}

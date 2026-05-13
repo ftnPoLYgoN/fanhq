@@ -1,0 +1,90 @@
+{
+    "basisdaten": {
+      "id": "eintracht-braunschweig",
+      "slug": "eintracht-braunschweig",
+      "name": "Eintracht Braunschweig",
+      "short_name": "BTSV",
+      "sport": "fussball",
+      "country": "deutschland",
+      "league": "zweite-bundesliga",
+      "city": "Braunschweig",
+      "federal_state": "Niedersachsen",
+      "stadium_name": "Eintracht-Stadion",
+      "stadium_location": "Hamburger Straße 210, 38112 Braunschweig",
+      "stadium_capacity": 23325,
+      "primary_colors_text": "Blau, Gelb"
+    },
+    "offizielle_quellen": [
+      {
+        "url": "https://www.eintracht.com",
+        "name": "Offizielle Website",
+        "category": "official",
+        "source_type": "official-club-site",
+        "trust_level": "official",
+        "notes": null
+      },
+      {
+        "url": "https://shop.eintracht.com",
+        "name": "Eintracht Fanshop",
+        "category": "official",
+        "source_type": "official-fanshop",
+        "trust_level": "official",
+        "notes": null
+      },
+      {
+        "url": "https://www.instagram.com/eintrachtbraunschweig1895",
+        "name": "Instagram",
+        "category": "official",
+        "source_type": "official-social",
+        "trust_level": "official",
+        "notes": null
+      }
+    ],
+    "inoffizielle_quellen": [
+      {
+        "url": "https://www.nurderbtsv.de",
+        "name": "nurderBTSV",
+        "category": "fan",
+        "source_type": "fan-forum",
+        "trust_level": "unofficial",
+        "notes": "Fan-Forum"
+      }
+    ],
+    "daten_nachschlagen": [
+      {
+        "url": "https://www.transfermarkt.de/eintracht-braunschweig/startseite/verein/23",
+        "name": "Transfermarkt Profil",
+        "category": "stats",
+        "source_type": "transfer-data",
+        "trust_level": "trusted-third-party",
+        "notes": null
+      }
+    ],
+    "medien_berichterstattung": [
+      {
+        "url": "https://www.braunschweiger-zeitung.de/sport/eintracht-braunschweig",
+        "name": "Braunschweiger Zeitung (BTSV)",
+        "category": "media",
+        "source_type": "local-media",
+        "trust_level": "trusted-third-party",
+        "notes": null
+      }
+    ],
+    "stadion_matchday": [
+      {
+        "url": "https://www.eintracht.com/stadion/anreise",
+        "name": "Anreise Eintracht-Stadion",
+        "category": "stadium",
+        "source_type": "travel-info",
+        "trust_level": "official",
+        "notes": null
+      }
+    ],
+    "metadaten": {
+      "last_checked": "2026-04-09T03:00:00Z",
+      "confidence": 1.0,
+      "notes": "Daten für Batch 2 aktualisiert.",
+      "missing_fields": [],
+      "update_priority": "medium"
+    }
+}

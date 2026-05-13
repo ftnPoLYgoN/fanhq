@@ -1,0 +1,297 @@
+{
+  "bundesliga": {
+    "name": "1. Bundesliga",
+    "clubs": [
+      {
+        "id": "1-fc-heidenheim-1846",
+        "name": "1. FC Heidenheim 1846",
+        "slug": "1-fc-heidenheim-1846"
+      },
+      {
+        "id": "1-fc-koeln",
+        "name": "1. FC Köln",
+        "slug": "1-fc-koeln"
+      },
+      {
+        "id": "1-fc-union-berlin",
+        "name": "1. FC Union Berlin",
+        "slug": "1-fc-union-berlin"
+      },
+      {
+        "id": "1-fsv-mainz-05",
+        "name": "1. FSV Mainz 05",
+        "slug": "1-fsv-mainz-05"
+      },
+      {
+        "id": "bayer-04-leverkusen",
+        "name": "Bayer 04 Leverkusen",
+        "slug": "bayer-04-leverkusen"
+      },
+      {
+        "id": "borussia-dortmund",
+        "name": "Borussia Dortmund",
+        "slug": "borussia-dortmund"
+      },
+      {
+        "id": "borussia-moenchengladbach",
+        "name": "Borussia Mönchengladbach",
+        "slug": "borussia-moenchengladbach"
+      },
+      {
+        "id": "eintracht-frankfurt",
+        "name": "Eintracht Frankfurt",
+        "slug": "eintracht-frankfurt"
+      },
+      {
+        "id": "fc-augsburg",
+        "name": "FC Augsburg",
+        "slug": "fc-augsburg"
+      },
+      {
+        "id": "fc-bayern-muenchen",
+        "name": "FC Bayern München",
+        "slug": "fc-bayern-muenchen"
+      },
+      {
+        "id": "fc-st-pauli",
+        "name": "FC St. Pauli",
+        "slug": "fc-st-pauli"
+      },
+      {
+        "id": "hamburger-sv",
+        "name": "Hamburger SV",
+        "slug": "hamburger-sv"
+      },
+      {
+        "id": "rb-leipzig",
+        "name": "RB Leipzig",
+        "slug": "rb-leipzig"
+      },
+      {
+        "id": "sc-freiburg",
+        "name": "SC Freiburg",
+        "slug": "sc-freiburg"
+      },
+      {
+        "id": "sv-werder-bremen",
+        "name": "SV Werder Bremen",
+        "slug": "sv-werder-bremen"
+      },
+      {
+        "id": "tsg-1899-hoffenheim",
+        "name": "TSG 1899 Hoffenheim",
+        "slug": "tsg-1899-hoffenheim"
+      },
+      {
+        "id": "vfb-stuttgart",
+        "name": "VfB Stuttgart",
+        "slug": "vfb-stuttgart"
+      },
+      {
+        "id": "vfl-wolfsburg",
+        "name": "VfL Wolfsburg",
+        "slug": "vfl-wolfsburg"
+      }
+    ]
+  },
+  "zweite-bundesliga": {
+    "name": "2. Bundesliga",
+    "clubs": [
+      {
+        "id": "1-fc-kaiserslautern",
+        "name": "1. FC Kaiserslautern",
+        "slug": "1-fc-kaiserslautern"
+      },
+      {
+        "id": "1-fc-magdeburg",
+        "name": "1. FC Magdeburg",
+        "slug": "1-fc-magdeburg"
+      },
+      {
+        "id": "1-fc-nuernberg",
+        "name": "1. FC Nürnberg",
+        "slug": "1-fc-nuernberg"
+      },
+      {
+        "id": "arminia-bielefeld",
+        "name": "Arminia Bielefeld",
+        "slug": "arminia-bielefeld"
+      },
+      {
+        "id": "dynamo-dresden",
+        "name": "SG Dynamo Dresden",
+        "slug": "dynamo-dresden"
+      },
+      {
+        "id": "eintracht-braunschweig",
+        "name": "Eintracht Braunschweig",
+        "slug": "eintracht-braunschweig"
+      },
+      {
+        "id": "fc-schalke-04",
+        "name": "FC Schalke 04",
+        "slug": "fc-schalke-04"
+      },
+      {
+        "id": "fortuna-duesseldorf",
+        "name": "Fortuna Düsseldorf",
+        "slug": "fortuna-duesseldorf"
+      },
+      {
+        "id": "hannover-96",
+        "name": "Hannover 96",
+        "slug": "hannover-96"
+      },
+      {
+        "id": "hertha-bsc",
+        "name": "Hertha BSC",
+        "slug": "hertha-bsc"
+      },
+      {
+        "id": "holstein-kiel",
+        "name": "Holstein Kiel",
+        "slug": "holstein-kiel"
+      },
+      {
+        "id": "karlsruher-sc",
+        "name": "Karlsruher SC",
+        "slug": "karlsruher-sc"
+      },
+      {
+        "id": "sc-paderborn-07",
+        "name": "SC Paderborn 07",
+        "slug": "sc-paderborn-07"
+      },
+      {
+        "id": "sc-preussen-muenster",
+        "name": "SC Preußen Münster",
+        "slug": "sc-preussen-muenster"
+      },
+      {
+        "id": "spvgg-greuther-fuerth",
+        "name": "SpVgg Greuther Fürth",
+        "slug": "spvgg-greuther-fuerth"
+      },
+      {
+        "id": "sv-darmstadt-98",
+        "name": "SV Darmstadt 98",
+        "slug": "sv-darmstadt-98"
+      },
+      {
+        "id": "sv-elversberg",
+        "name": "SV Elversberg",
+        "slug": "sv-elversberg"
+      },
+      {
+        "id": "vfl-bochum",
+        "name": "VfL Bochum",
+        "slug": "vfl-bochum"
+      }
+    ]
+  },
+  "dritte-liga": {
+    "name": "3. Liga",
+    "clubs": [
+      {
+        "id": "1-fc-saarbruecken",
+        "name": "1. FC Saarbrücken",
+        "slug": "1-fc-saarbruecken"
+      },
+      {
+        "id": "alemannia-aachen",
+        "name": "TSV Alemannia Aachen",
+        "slug": "alemannia-aachen"
+      },
+      {
+        "id": "borussia-dortmund-ii",
+        "name": "Borussia Dortmund II",
+        "slug": "borussia-dortmund-ii"
+      },
+      {
+        "id": "energie-cottbus",
+        "name": "FC Energie Cottbus",
+        "slug": "energie-cottbus"
+      },
+      {
+        "id": "fc-erzgebirge-aue",
+        "name": "FC Erzgebirge Aue",
+        "slug": "fc-erzgebirge-aue"
+      },
+      {
+        "id": "fc-hansa-rostock",
+        "name": "F.C. Hansa Rostock",
+        "slug": "fc-hansa-rostock"
+      },
+      {
+        "id": "fc-ingolstadt-04",
+        "name": "FC Ingolstadt 04",
+        "slug": "fc-ingolstadt-04"
+      },
+      {
+        "id": "hannover-96-ii",
+        "name": "Hannover 96 II",
+        "slug": "hannover-96-ii"
+      },
+      {
+        "id": "rot-weiss-essen",
+        "name": "Rot-Weiss Essen",
+        "slug": "rot-weiss-essen"
+      },
+      {
+        "id": "sc-verl",
+        "name": "Sportclub Verl",
+        "slug": "sc-verl"
+      },
+      {
+        "id": "spvgg-unterhaching",
+        "name": "SpVgg Unterhaching",
+        "slug": "spvgg-unterhaching"
+      },
+      {
+        "id": "ssv-jahn-regensburg",
+        "name": "SSV Jahn Regensburg",
+        "slug": "ssv-jahn-regensburg"
+      },
+      {
+        "id": "ssv-ulm-1846",
+        "name": "SSV Ulm 1846 Fußball",
+        "slug": "ssv-ulm-1846"
+      },
+      {
+        "id": "sv-sandhausen",
+        "name": "SV Sandhausen 1916",
+        "slug": "sv-sandhausen"
+      },
+      {
+        "id": "sv-waldhof-mannheim",
+        "name": "SV Waldhof Mannheim 07",
+        "slug": "sv-waldhof-mannheim"
+      },
+      {
+        "id": "sv-wehen-wiesbaden",
+        "name": "SV Wehen Wiesbaden",
+        "slug": "sv-wehen-wiesbaden"
+      },
+      {
+        "id": "tsv-1860-muenchen",
+        "name": "TSV 1860 München",
+        "slug": "tsv-1860-muenchen"
+      },
+      {
+        "id": "vfb-stuttgart-ii",
+        "name": "VfB Stuttgart II",
+        "slug": "vfb-stuttgart-ii"
+      },
+      {
+        "id": "vfl-osnabrueck",
+        "name": "VfL Osnabrück",
+        "slug": "vfl-osnabrueck"
+      },
+      {
+        "id": "viktoria-koeln",
+        "name": "FC Viktoria Köln",
+        "slug": "viktoria-koeln"
+      }
+    ]
+  }
+}

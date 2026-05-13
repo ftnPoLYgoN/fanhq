@@ -1,0 +1,98 @@
+{
+  "basisdaten": {
+    "id": "tsv-1860-muenchen",
+    "slug": "tsv-1860-muenchen",
+    "name": "TSV 1860 München",
+    "short_name": "Sechzger",
+    "sport": "fussball",
+    "country": "deutschland",
+    "league": "dritte-liga",
+    "city": "München",
+    "federal_state": "Bayern",
+    "stadium_name": "Grünwalder Stadion",
+    "stadium_location": "Grünwalder Straße 114, 81547 München",
+    "stadium_capacity": 15000,
+    "primary_colors_text": "Blau, Weiß"
+  },
+  "offizielle_quellen": [
+    {
+      "url": "https://www.tsv1860.de",
+      "name": "Offizielle Website",
+      "category": "official",
+      "source_type": "official-club-site",
+      "trust_level": "official",
+      "notes": null
+    },
+    {
+      "url": "https://www.tsv1860-shop.de",
+      "name": "Löwen Fanshop",
+      "category": "official",
+      "source_type": "official-fanshop",
+      "trust_level": "official",
+      "notes": null
+    },
+    {
+      "url": "https://www.instagram.com/tsv1860",
+      "name": "Instagram",
+      "category": "official",
+      "source_type": "official-social",
+      "trust_level": "official",
+      "notes": null
+    }
+  ],
+  "inoffizielle_quellen": [
+    {
+      "url": "https://www.sechzger.de",
+      "name": "sechzger.de",
+      "category": "fan",
+      "source_type": "fan-portal",
+      "trust_level": "unofficial",
+      "notes": "Fan-Magazin"
+    },
+    {
+      "url": "https://www.dieblaue24.com",
+      "name": "dieblaue24",
+      "category": "fan",
+      "source_type": "fan-blog",
+      "trust_level": "unofficial",
+      "notes": "News & Blog"
+    }
+  ],
+  "daten_nachschlagen": [
+    {
+      "url": "https://www.transfermarkt.de/tsv-1860-munchen/startseite/verein/18",
+      "name": "Transfermarkt Profil",
+      "category": "stats",
+      "source_type": "transfer-data",
+      "trust_level": "trusted-third-party",
+      "notes": null
+    }
+  ],
+  "medien_berichterstattung": [
+    {
+      "url": "https://www.abendzeitung-muenchen.de/sport/tsv-1860",
+      "name": "Abendzeitung (1860)",
+      "category": "media",
+      "source_type": "local-media",
+      "trust_level": "trusted-third-party",
+      "notes": null
+    }
+  ],
+  "stadion_matchday": [
+    {
+      "url": "https://www.tsv1860.de/stadion/anreise",
+      "name": "Anfahrt Giesing",
+      "category": "stadium",
+      "source_type": "travel-info",
+      "trust_level": "official",
+      "notes": null
+    }
+  ],
+  "metadaten": {
+    "last_checked": "2026-04-09T03:40:00Z",
+    "confidence": 1.0,
+    "notes": "Daten für Batch 3 aktualisiert.",
+    "missing_fields": [],
+    "update_priority": "medium"
+  }
+}

@@ -1,0 +1,90 @@
+{
+    "basisdaten": {
+      "id": "arminia-bielefeld",
+      "slug": "arminia-bielefeld",
+      "name": "Arminia Bielefeld",
+      "short_name": "Die Arminen",
+      "sport": "fussball",
+      "country": "deutschland",
+      "league": "zweite-bundesliga",
+      "city": "Bielefeld",
+      "federal_state": "Nordrhein-Westfalen",
+      "stadium_name": "SchücoArena",
+      "stadium_location": "Melanchthonstraße 31a, 33615 Bielefeld",
+      "stadium_capacity": 27300,
+      "primary_colors_text": "Schwarz, Weiß, Blau"
+    },
+    "offizielle_quellen": [
+      {
+        "url": "https://www.arminia.de",
+        "name": "Offizielle Website",
+        "category": "official",
+        "source_type": "official-club-site",
+        "trust_level": "official",
+        "notes": null
+      },
+      {
+        "url": "https://shop.arminia.de",
+        "name": "DSC Fanshop",
+        "category": "official",
+        "source_type": "official-fanshop",
+        "trust_level": "official",
+        "notes": null
+      },
+      {
+        "url": "https://www.instagram.com/arminiaofficial",
+        "name": "Instagram",
+        "category": "official",
+        "source_type": "official-social",
+        "trust_level": "official",
+        "notes": null
+      }
+    ],
+    "inoffizielle_quellen": [
+      {
+        "url": "https://www.dsc4ever.de",
+        "name": "DSC4ever",
+        "category": "fan",
+        "source_type": "fan-forum",
+        "trust_level": "unofficial",
+        "notes": "Zentrale Fan-Zentrale"
+      }
+    ],
+    "daten_nachschlagen": [
+      {
+        "url": "https://www.transfermarkt.de/arminia-bielefeld/startseite/verein/10",
+        "name": "Transfermarkt Profil",
+        "category": "stats",
+        "source_type": "transfer-data",
+        "trust_level": "trusted-third-party",
+        "notes": null
+      }
+    ],
+    "medien_berichterstattung": [
+      {
+        "url": "https://www.nw.de/sport/dsc_arminia_bielefeld",
+        "name": "Neue Westfälische (Arminia)",
+        "category": "media",
+        "source_type": "local-media",
+        "trust_level": "trusted-third-party",
+        "notes": null
+      }
+    ],
+    "stadion_matchday": [
+      {
+        "url": "https://www.arminia.de/stadion/anreise",
+        "name": "Anfahrt SchücoArena",
+        "category": "stadium",
+        "source_type": "travel-info",
+        "trust_level": "official",
+        "notes": null
+      }
+    ],
+    "metadaten": {
+      "last_checked": "2026-04-09T03:10:00Z",
+      "confidence": 1.0,
+      "notes": "Daten für Batch 2 aktualisiert.",
+      "missing_fields": [],
+      "update_priority": "medium"
+    }
+}

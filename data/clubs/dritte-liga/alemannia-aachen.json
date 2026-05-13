@@ -1,0 +1,90 @@
+{
+    "basisdaten": {
+      "id": "alemannia-aachen",
+      "slug": "alemannia-aachen",
+      "name": "TSV Alemannia Aachen",
+      "short_name": "Alemannia",
+      "sport": "fussball",
+      "country": "deutschland",
+      "league": "dritte-liga",
+      "city": "Aachen",
+      "federal_state": "Nordrhein-Westfalen",
+      "stadium_name": "Tivoli",
+      "stadium_location": "Krefelder Str. 205, 52070 Aachen",
+      "stadium_capacity": 32960,
+      "primary_colors_text": "Schwarz, Gelb"
+    },
+    "offizielle_quellen": [
+      {
+        "url": "https://www.alemannia-aachen.de",
+        "name": "Offizielle Website",
+        "category": "official",
+        "source_type": "official-club-site",
+        "trust_level": "official",
+        "notes": null
+      },
+      {
+        "url": "https://www.alemannia-shop.de",
+        "name": "Fanshop",
+        "category": "official",
+        "source_type": "official-fanshop",
+        "trust_level": "official",
+        "notes": null
+      },
+      {
+        "url": "https://www.instagram.com/alemanniaaachen",
+        "name": "Instagram",
+        "category": "official",
+        "source_type": "official-social",
+        "trust_level": "official",
+        "notes": null
+      }
+    ],
+    "inoffizielle_quellen": [
+      {
+        "url": "https://www.alemannia-brett.de",
+        "name": "Alemannia-Brett",
+        "category": "fan",
+        "source_type": "fan-forum",
+        "trust_level": "unofficial",
+        "notes": "Traditionelles Forum"
+      }
+    ],
+    "daten_nachschlagen": [
+      {
+        "url": "https://www.transfermarkt.de/alemannia-aachen/startseite/verein/8",
+        "name": "Transfermarkt Profil",
+        "category": "stats",
+        "source_type": "transfer-data",
+        "trust_level": "trusted-third-party",
+        "notes": null
+      }
+    ],
+    "medien_berichterstattung": [
+      {
+        "url": "https://www.aachener-zeitung.de/sport/alemannia-aachen",
+        "name": "Aachener Zeitung (Alemannia)",
+        "category": "media",
+        "source_type": "local-media",
+        "trust_level": "trusted-third-party",
+        "notes": null
+      }
+    ],
+    "stadion_matchday": [
+      {
+        "url": "https://www.alemannia-aachen.de/tivoli/anreise",
+        "name": "Anreise Tivoli",
+        "category": "stadium",
+        "source_type": "travel-info",
+        "trust_level": "official",
+        "notes": null
+      }
+    ],
+    "metadaten": {
+      "last_checked": "2026-04-09T03:20:00Z",
+      "confidence": 1.0,
+      "notes": "Daten für Batch 3 aktualisiert.",
+      "missing_fields": [],
+      "update_priority": "medium"
+    }
+}

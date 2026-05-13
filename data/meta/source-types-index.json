@@ -1,0 +1,23 @@
+{
+  "categories": ["official", "fan", "stats", "media", "stadium"],
+  "source_types": [
+    "official-club-site",
+    "official-ticketshop",
+    "official-fanshop",
+    "official-news",
+    "official-youtube",
+    "official-social",
+    "fan-forum",
+    "fan-blog",
+    "fan-podcast",
+    "fan-community",
+    "stats-provider",
+    "player-profile",
+    "transfer-data",
+    "local-media",
+    "national-media",
+    "stadium-info",
+    "travel-info"
+  ],
+  "trust_levels": ["official", "trusted-third-party", "unofficial", "uncertain"]
+}

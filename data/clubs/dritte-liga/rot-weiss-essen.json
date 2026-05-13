@@ -1,0 +1,98 @@
+{
+  "basisdaten": {
+    "id": "rot-weiss-essen",
+    "slug": "rot-weiss-essen",
+    "name": "Rot-Weiss Essen",
+    "short_name": "RWE",
+    "sport": "fussball",
+    "country": "deutschland",
+    "league": "dritte-liga",
+    "city": "Essen",
+    "federal_state": "Nordrhein-Westfalen",
+    "stadium_name": "Stadion an der Hafenstraße",
+    "stadium_location": "Hafenstraße 97a, 45356 Essen",
+    "stadium_capacity": 20650,
+    "primary_colors_text": "Rot, Weiß"
+  },
+  "offizielle_quellen": [
+    {
+      "url": "https://www.rot-weiss-essen.de",
+      "name": "Offizielle Website",
+      "category": "official",
+      "source_type": "official-club-site",
+      "trust_level": "official",
+      "notes": null
+    },
+    {
+      "url": "https://shop.rot-weiss-essen.de",
+      "name": "RWE Fanshop",
+      "category": "official",
+      "source_type": "official-fanshop",
+      "trust_level": "official",
+      "notes": null
+    },
+    {
+      "url": "https://www.instagram.com/rwe.1907",
+      "name": "Instagram",
+      "category": "official",
+      "source_type": "official-social",
+      "trust_level": "official",
+      "notes": null
+    }
+  ],
+  "inoffizielle_quellen": [
+    {
+      "url": "https://www.jawattdenn.de",
+      "name": "Jawattdenn",
+      "category": "fan",
+      "source_type": "fan-magazine",
+      "trust_level": "unofficial",
+      "notes": "Fan-Magazin"
+    },
+    {
+      "url": "https://www.rwe-forum.net",
+      "name": "RWE-Forum",
+      "category": "fan",
+      "source_type": "fan-forum",
+      "trust_level": "unofficial",
+      "notes": "Diskussionsforum"
+    }
+  ],
+  "daten_nachschlagen": [
+    {
+      "url": "https://www.transfermarkt.de/rot-weiss-essen/startseite/verein/56",
+      "name": "Transfermarkt Profil",
+      "category": "stats",
+      "source_type": "transfer-data",
+      "trust_level": "trusted-third-party",
+      "notes": null
+    }
+  ],
+  "medien_berichterstattung": [
+    {
+      "url": "https://www.reviersport.de/fussball/3liga/rwe.html",
+      "name": "RevierSport (RWE)",
+      "category": "media",
+      "source_type": "local-media",
+      "trust_level": "trusted-third-party",
+      "notes": null
+    }
+  ],
+  "stadion_matchday": [
+    {
+      "url": "https://www.rot-weiss-essen.de/stadion/anreise",
+      "name": "Anreise Hafenstraße",
+      "category": "stadium",
+      "source_type": "travel-info",
+      "trust_level": "official",
+      "notes": null
+    }
+  ],
+  "metadaten": {
+    "last_checked": "2026-04-09T03:20:00Z",
+    "confidence": 1.0,
+    "notes": "Daten für Batch 3 aktualisiert.",
+    "missing_fields": [],
+    "update_priority": "medium"
+  }
+}

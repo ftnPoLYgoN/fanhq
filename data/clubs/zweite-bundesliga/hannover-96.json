@@ -1,0 +1,98 @@
+{
+    "basisdaten": {
+      "id": "hannover-96",
+      "slug": "hannover-96",
+      "name": "Hannover 96",
+      "short_name": "Die Roten",
+      "sport": "fussball",
+      "country": "deutschland",
+      "league": "zweite-bundesliga",
+      "city": "Hannover",
+      "federal_state": "Niedersachsen",
+      "stadium_name": "Heinz von Heiden Arena",
+      "stadium_location": "Robert-Enke-Straße 3, 30169 Hannover",
+      "stadium_capacity": 49000,
+      "primary_colors_text": "Schwarz, Weiß, Grün"
+    },
+    "offizielle_quellen": [
+      {
+        "url": "https://www.hannover96.de",
+        "name": "Offizielle Website",
+        "category": "official",
+        "source_type": "official-club-site",
+        "trust_level": "official",
+        "notes": null
+      },
+      {
+        "url": "https://shop.hannover96.de",
+        "name": "Fanshop",
+        "category": "official",
+        "source_type": "official-fanshop",
+        "trust_level": "official",
+        "notes": null
+      },
+      {
+        "url": "https://www.instagram.com/hannover96",
+        "name": "Instagram",
+        "category": "official",
+        "source_type": "official-social",
+        "trust_level": "official",
+        "notes": null
+      }
+    ],
+    "inoffizielle_quellen": [
+      {
+        "url": "https://www.das-fanmagazin.de",
+        "name": "Das Fanmagazin",
+        "category": "fan",
+        "source_type": "fan-forum",
+        "trust_level": "unofficial",
+        "notes": "Zentrales Forum"
+      },
+      {
+        "url": "https://www.96freunde.de",
+        "name": "96Freunde",
+        "category": "fan",
+        "source_type": "fan-blog",
+        "trust_level": "unofficial",
+        "notes": "Fan-Blog"
+      }
+    ],
+    "daten_nachschlagen": [
+      {
+        "url": "https://www.transfermarkt.de/hannover-96/startseite/verein/42",
+        "name": "Transfermarkt Profil",
+        "category": "stats",
+        "source_type": "transfer-data",
+        "trust_level": "trusted-third-party",
+        "notes": null
+      }
+    ],
+    "medien_berichterstattung": [
+      {
+        "url": "https://www.haz.de/themen/hannover-96",
+        "name": "HAZ (Hannover 96)",
+        "category": "media",
+        "source_type": "local-media",
+        "trust_level": "trusted-third-party",
+        "notes": null
+      }
+    ],
+    "stadion_matchday": [
+      {
+        "url": "https://www.hannover96.de/stadion/heinz-von-heiden-arena/anreise",
+        "name": "Anreise Arena",
+        "category": "stadium",
+        "source_type": "travel-info",
+        "trust_level": "official",
+        "notes": null
+      }
+    ],
+    "metadaten": {
+      "last_checked": "2026-04-09T02:34:00Z",
+      "confidence": 1.0,
+      "notes": "Daten für Batch 2 aktualisiert.",
+      "missing_fields": [],
+      "update_priority": "medium"
+    }
+}

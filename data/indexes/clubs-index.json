@@ -1,0 +1,450 @@
+[
+  {
+    "id": "1-fc-heidenheim-1846",
+    "slug": "1-fc-heidenheim-1846",
+    "name": "1. FC Heidenheim 1846",
+    "league": "bundesliga",
+    "stadium": "Voith-Arena",
+    "last_updated": "2026-04-09T02:22:00Z"
+  },
+  {
+    "id": "1-fc-koeln",
+    "slug": "1-fc-koeln",
+    "name": "1. FC Köln",
+    "league": "bundesliga",
+    "stadium": "RheinEnergieStadion",
+    "last_updated": "2026-04-09T02:30:00Z"
+  },
+  {
+    "id": "1-fc-union-berlin",
+    "slug": "1-fc-union-berlin",
+    "name": "1. FC Union Berlin",
+    "league": "bundesliga",
+    "stadium": "Stadion An der Alten Försterei",
+    "last_updated": "2026-04-09T02:22:00Z"
+  },
+  {
+    "id": "1-fsv-mainz-05",
+    "slug": "1-fsv-mainz-05",
+    "name": "1. FSV Mainz 05",
+    "league": "bundesliga",
+    "stadium": "MEWA ARENA",
+    "last_updated": "2026-04-09T02:21:00Z"
+  },
+  {
+    "id": "bayer-04-leverkusen",
+    "slug": "bayer-04-leverkusen",
+    "name": "Bayer 04 Leverkusen",
+    "league": "bundesliga",
+    "stadium": "BayArena",
+    "last_updated": "2026-04-09T02:18:00Z"
+  },
+  {
+    "id": "borussia-dortmund",
+    "slug": "borussia-dortmund",
+    "name": "Borussia Dortmund",
+    "league": "bundesliga",
+    "stadium": "Signal Iduna Park",
+    "last_updated": "2026-04-09T02:18:00Z"
+  },
+  {
+    "id": "borussia-moenchengladbach",
+    "slug": "borussia-moenchengladbach",
+    "name": "Borussia Mönchengladbach",
+    "league": "bundesliga",
+    "stadium": "BORUSSIA-PARK",
+    "last_updated": "2026-04-09T02:21:00Z"
+  },
+  {
+    "id": "eintracht-frankfurt",
+    "slug": "eintracht-frankfurt",
+    "name": "Eintracht Frankfurt",
+    "league": "bundesliga",
+    "stadium": "Deutsche Bank Park",
+    "last_updated": "2026-04-09T02:19:00Z"
+  },
+  {
+    "id": "fc-augsburg",
+    "slug": "fc-augsburg",
+    "name": "FC Augsburg",
+    "league": "bundesliga",
+    "stadium": "WWK Arena",
+    "last_updated": "2026-04-09T02:20:00Z"
+  },
+  {
+    "id": "fc-bayern-muenchen",
+    "slug": "fc-bayern-muenchen",
+    "name": "FC Bayern München",
+    "league": "bundesliga",
+    "stadium": "Allianz Arena",
+    "last_updated": "2026-04-09T02:18:00Z"
+  },
+  {
+    "id": "fc-st-pauli",
+    "slug": "fc-st-pauli",
+    "name": "FC St. Pauli",
+    "league": "bundesliga",
+    "stadium": "Millerntor-Stadion",
+    "last_updated": "2026-04-09T02:23:00Z"
+  },
+  {
+    "id": "hamburger-sv",
+    "slug": "hamburger-sv",
+    "name": "Hamburger SV",
+    "league": "bundesliga",
+    "stadium": "Volksparkstadion",
+    "last_updated": "2026-04-09T02:30:00Z"
+  },
+  {
+    "id": "rb-leipzig",
+    "slug": "rb-leipzig",
+    "name": "RB Leipzig",
+    "league": "bundesliga",
+    "stadium": "Red Bull Arena",
+    "last_updated": "2026-04-09T02:19:00Z"
+  },
+  {
+    "id": "sc-freiburg",
+    "slug": "sc-freiburg",
+    "name": "SC Freiburg",
+    "league": "bundesliga",
+    "stadium": "Europa-Park Stadion",
+    "last_updated": "2026-04-09T02:20:00Z"
+  },
+  {
+    "id": "sv-werder-bremen",
+    "slug": "sv-werder-bremen",
+    "name": "SV Werder Bremen",
+    "league": "bundesliga",
+    "stadium": "Weserstadion",
+    "last_updated": "2026-04-09T02:20:00Z"
+  },
+  {
+    "id": "tsg-1899-hoffenheim",
+    "slug": "tsg-1899-hoffenheim",
+    "name": "TSG 1899 Hoffenheim",
+    "league": "bundesliga",
+    "stadium": "PreZero Arena",
+    "last_updated": "2026-04-09T02:19:00Z"
+  },
+  {
+    "id": "vfb-stuttgart",
+    "slug": "vfb-stuttgart",
+    "name": "VfB Stuttgart",
+    "league": "bundesliga",
+    "stadium": "MHP Arena",
+    "last_updated": "2026-04-09T02:23:00Z"
+  },
+  {
+    "id": "vfl-wolfsburg",
+    "slug": "vfl-wolfsburg",
+    "name": "VfL Wolfsburg",
+    "league": "bundesliga",
+    "stadium": "Volkswagen Arena",
+    "last_updated": "2026-04-09T02:21:00Z"
+  },
+  {
+    "id": "1-fc-kaiserslautern",
+    "slug": "1-fc-kaiserslautern",
+    "name": "1. FC Kaiserslautern",
+    "league": "zweite-bundesliga",
+    "stadium": "Fritz-Walter-Stadion",
+    "last_updated": "2026-04-09T02:35:00Z"
+  },
+  {
+    "id": "1-fc-magdeburg",
+    "slug": "1-fc-magdeburg",
+    "name": "1. FC Magdeburg",
+    "league": "zweite-bundesliga",
+    "stadium": "AVNET Arena",
+    "last_updated": "2026-04-09T02:35:00Z"
+  },
+  {
+    "id": "1-fc-nuernberg",
+    "slug": "1-fc-nuernberg",
+    "name": "1. FC Nürnberg",
+    "league": "zweite-bundesliga",
+    "stadium": "Max-Morlock-Stadion",
+    "last_updated": "2026-04-09T02:33:00Z"
+  },
+  {
+    "id": "arminia-bielefeld",
+    "slug": "arminia-bielefeld",
+    "name": "Arminia Bielefeld",
+    "league": "zweite-bundesliga",
+    "stadium": "SchücoArena",
+    "last_updated": "2026-04-09T03:10:00Z"
+  },
+  {
+    "id": "dynamo-dresden",
+    "slug": "dynamo-dresden",
+    "name": "SG Dynamo Dresden",
+    "league": "zweite-bundesliga",
+    "stadium": "Rudolf-Harbig-Stadion",
+    "last_updated": "2026-04-09T03:10:00Z"
+  },
+  {
+    "id": "eintracht-braunschweig",
+    "slug": "eintracht-braunschweig",
+    "name": "Eintracht Braunschweig",
+    "league": "zweite-bundesliga",
+    "stadium": "Eintracht-Stadion",
+    "last_updated": "2026-04-09T03:00:00Z"
+  },
+  {
+    "id": "fc-schalke-04",
+    "slug": "fc-schalke-04",
+    "name": "FC Schalke 04",
+    "league": "zweite-bundesliga",
+    "stadium": "VELTINS-Arena",
+    "last_updated": "2026-04-09T02:33:00Z"
+  },
+  {
+    "id": "fortuna-duesseldorf",
+    "slug": "fortuna-duesseldorf",
+    "name": "Fortuna Düsseldorf",
+    "league": "zweite-bundesliga",
+    "stadium": "Merkur Spiel-Arena",
+    "last_updated": "2026-04-09T02:34:00Z"
+  },
+  {
+    "id": "hannover-96",
+    "slug": "hannover-96",
+    "name": "Hannover 96",
+    "league": "zweite-bundesliga",
+    "stadium": "Heinz von Heiden Arena",
+    "last_updated": "2026-04-09T02:34:00Z"
+  },
+  {
+    "id": "hertha-bsc",
+    "slug": "hertha-bsc",
+    "name": "Hertha BSC",
+    "league": "zweite-bundesliga",
+    "stadium": "Olympiastadion Berlin",
+    "last_updated": "2026-04-09T02:33:00Z"
+  },
+  {
+    "id": "holstein-kiel",
+    "slug": "holstein-kiel",
+    "name": "Holstein Kiel",
+    "league": "zweite-bundesliga",
+    "stadium": "Holstein-Stadion",
+    "last_updated": "2026-04-09T02:23:00Z"
+  },
+  {
+    "id": "karlsruher-sc",
+    "slug": "karlsruher-sc",
+    "name": "Karlsruher SC",
+    "league": "zweite-bundesliga",
+    "stadium": "BBBank Wildpark",
+    "last_updated": "2026-04-09T02:35:00Z"
+  },
+  {
+    "id": "sc-paderborn-07",
+    "slug": "sc-paderborn-07",
+    "name": "SC Paderborn 07",
+    "league": "zweite-bundesliga",
+    "stadium": "Home Deluxe Arena",
+    "last_updated": "2026-04-09T02:34:00Z"
+  },
+  {
+    "id": "sc-preussen-muenster",
+    "slug": "sc-preussen-muenster",
+    "name": "SC Preußen Münster",
+    "league": "zweite-bundesliga",
+    "stadium": "LVM-Preußenstadion",
+    "last_updated": "2026-04-09T03:10:00Z"
+  },
+  {
+    "id": "spvgg-greuther-fuerth",
+    "slug": "spvgg-greuther-fuerth",
+    "name": "SpVgg Greuther Fürth",
+    "league": "zweite-bundesliga",
+    "stadium": "Sportpark Ronhof | Thomas Sommer",
+    "last_updated": "2026-04-09T03:00:00Z"
+  },
+  {
+    "id": "sv-darmstadt-98",
+    "slug": "sv-darmstadt-98",
+    "name": "SV Darmstadt 98",
+    "league": "zweite-bundesliga",
+    "stadium": "Merck-Stadion am Böllenfalltor",
+    "last_updated": "2026-04-09T02:32:00Z"
+  },
+  {
+    "id": "sv-elversberg",
+    "slug": "sv-elversberg",
+    "name": "SV Elversberg",
+    "league": "zweite-bundesliga",
+    "stadium": "URSAPHARM-Arena an der Kaiserlinde",
+    "last_updated": "2026-04-09T03:00:00Z"
+  },
+  {
+    "id": "vfl-bochum",
+    "slug": "vfl-bochum",
+    "name": "VfL Bochum",
+    "league": "zweite-bundesliga",
+    "stadium": "Vonovia Ruhrstadion",
+    "last_updated": "2026-04-09T02:22:00Z"
+  },
+  {
+    "id": "1-fc-saarbruecken",
+    "slug": "1-fc-saarbruecken",
+    "name": "1. FC Saarbrücken",
+    "league": "dritte-liga",
+    "stadium": "Ludwigsparkstadion",
+    "last_updated": "2026-04-09T03:20:00Z"
+  },
+  {
+    "id": "alemannia-aachen",
+    "slug": "alemannia-aachen",
+    "name": "TSV Alemannia Aachen",
+    "league": "dritte-liga",
+    "stadium": "Tivoli",
+    "last_updated": "2026-04-09T03:20:00Z"
+  },
+  {
+    "id": "borussia-dortmund-ii",
+    "slug": "borussia-dortmund-ii",
+    "name": "Borussia Dortmund II",
+    "league": "dritte-liga",
+    "stadium": "Stadion Rote Erde",
+    "last_updated": "2026-04-09T03:50:00Z"
+  },
+  {
+    "id": "energie-cottbus",
+    "slug": "energie-cottbus",
+    "name": "FC Energie Cottbus",
+    "league": "dritte-liga",
+    "stadium": "LEAG Energie Stadion",
+    "last_updated": "2026-04-09T03:20:00Z"
+  },
+  {
+    "id": "fc-erzgebirge-aue",
+    "slug": "fc-erzgebirge-aue",
+    "name": "FC Erzgebirge Aue",
+    "league": "dritte-liga",
+    "stadium": "Erzgebirgsstadion",
+    "last_updated": "2026-04-09T03:30:00Z"
+  },
+  {
+    "id": "fc-hansa-rostock",
+    "slug": "fc-hansa-rostock",
+    "name": "F.C. Hansa Rostock",
+    "league": "dritte-liga",
+    "stadium": "Ostseestadion",
+    "last_updated": "2026-04-09T03:30:00Z"
+  },
+  {
+    "id": "fc-ingolstadt-04",
+    "slug": "fc-ingolstadt-04",
+    "name": "FC Ingolstadt 04",
+    "league": "dritte-liga",
+    "stadium": "Audi Sportpark",
+    "last_updated": "2026-04-09T03:30:00Z"
+  },
+  {
+    "id": "hannover-96-ii",
+    "slug": "hannover-96-ii",
+    "name": "Hannover 96 II",
+    "league": "dritte-liga",
+    "stadium": "Eilenriedestadion",
+    "last_updated": "2026-04-09T03:50:00Z"
+  },
+  {
+    "id": "rot-weiss-essen",
+    "slug": "rot-weiss-essen",
+    "name": "Rot-Weiss Essen",
+    "league": "dritte-liga",
+    "stadium": "Stadion an der Hafenstraße",
+    "last_updated": "2026-04-09T03:20:00Z"
+  },
+  {
+    "id": "sc-verl",
+    "slug": "sc-verl",
+    "name": "Sportclub Verl",
+    "league": "dritte-liga",
+    "stadium": "SPORTCLUB Arena",
+    "last_updated": "2026-04-09T03:50:00Z"
+  },
+  {
+    "id": "spvgg-unterhaching",
+    "slug": "spvgg-unterhaching",
+    "name": "SpVgg Unterhaching",
+    "league": "dritte-liga",
+    "stadium": "Sportpark Unterhaching",
+    "last_updated": "2026-04-09T03:50:00Z"
+  },
+  {
+    "id": "ssv-jahn-regensburg",
+    "slug": "ssv-jahn-regensburg",
+    "name": "SSV Jahn Regensburg",
+    "league": "dritte-liga",
+    "stadium": "Jahnstadion Regensburg",
+    "last_updated": "2026-04-09T03:55:00Z"
+  },
+  {
+    "id": "ssv-ulm-1846",
+    "slug": "ssv-ulm-1846",
+    "name": "SSV Ulm 1846 Fußball",
+    "league": "dritte-liga",
+    "stadium": "Donaustadion",
+    "last_updated": "2026-04-09T03:55:00Z"
+  },
+  {
+    "id": "sv-sandhausen",
+    "slug": "sv-sandhausen",
+    "name": "SV Sandhausen 1916",
+    "league": "dritte-liga",
+    "stadium": "GP Stadion am Hardtwald",
+    "last_updated": "2026-04-09T03:40:00Z"
+  },
+  {
+    "id": "sv-waldhof-mannheim",
+    "slug": "sv-waldhof-mannheim",
+    "name": "SV Waldhof Mannheim 07",
+    "league": "dritte-liga",
+    "stadium": "Carl-Benz-Stadion",
+    "last_updated": "2026-04-09T03:40:00Z"
+  },
+  {
+    "id": "sv-wehen-wiesbaden",
+    "slug": "sv-wehen-wiesbaden",
+    "name": "SV Wehen Wiesbaden",
+    "league": "dritte-liga",
+    "stadium": "BRITA-Arena",
+    "last_updated": "2026-04-09T03:40:00Z"
+  },
+  {
+    "id": "tsv-1860-muenchen",
+    "slug": "tsv-1860-muenchen",
+    "name": "TSV 1860 München",
+    "league": "dritte-liga",
+    "stadium": "Grünwalder Stadion",
+    "last_updated": "2026-04-09T03:40:00Z"
+  },
+  {
+    "id": "vfb-stuttgart-ii",
+    "slug": "vfb-stuttgart-ii",
+    "name": "VfB Stuttgart II",
+    "league": "dritte-liga",
+    "stadium": "WIRmachenDRUCK Arena (Aspach)",
+    "last_updated": "2026-04-09T03:55:00Z"
+  },
+  {
+    "id": "vfl-osnabrueck",
+    "slug": "vfl-osnabrueck",
+    "name": "VfL Osnabrück",
+    "league": "dritte-liga",
+    "stadium": "Bremer Brücke",
+    "last_updated": "2026-04-09T03:30:00Z"
+  },
+  {
+    "id": "viktoria-koeln",
+    "slug": "viktoria-koeln",
+    "name": "FC Viktoria Köln",
+    "league": "dritte-liga",
+    "stadium": "Sportpark Höhenberg",
+    "last_updated": "2026-04-09T03:55:00Z"
+  }
+]

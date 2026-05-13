@@ -1,0 +1,98 @@
+{
+    "basisdaten": {
+      "id": "1-fc-koeln",
+      "slug": "1-fc-koeln",
+      "name": "1. FC Köln",
+      "short_name": "Effzeh",
+      "sport": "fussball",
+      "country": "deutschland",
+      "league": "bundesliga",
+      "city": "Köln",
+      "federal_state": "Nordrhein-Westfalen",
+      "stadium_name": "RheinEnergieStadion",
+      "stadium_location": "Aachener Straße 999, 50933 Köln",
+      "stadium_capacity": 50000,
+      "primary_colors_text": "Rot, Weiß"
+    },
+    "offizielle_quellen": [
+      {
+        "url": "https://www.fc.de",
+        "name": "Offizielle Website",
+        "category": "official",
+        "source_type": "official-club-site",
+        "trust_level": "official",
+        "notes": null
+      },
+      {
+        "url": "https://www.fc-fanshop.de",
+        "name": "FC Fanshop",
+        "category": "official",
+        "source_type": "official-fanshop",
+        "trust_level": "official",
+        "notes": null
+      },
+      {
+        "url": "https://www.instagram.com/fckoeln",
+        "name": "Instagram",
+        "category": "official",
+        "source_type": "official-social",
+        "trust_level": "official",
+        "notes": null
+      }
+    ],
+    "inoffizielle_quellen": [
+      {
+        "url": "https://www.geissblog.koeln",
+        "name": "Geissblog",
+        "category": "fan",
+        "source_type": "fan-blog",
+        "trust_level": "unofficial",
+        "notes": "Fan-Magazin"
+      },
+      {
+        "url": "https://www.fc-brett.de",
+        "name": "FC-Brett",
+        "category": "fan",
+        "source_type": "fan-forum",
+        "trust_level": "unofficial",
+        "notes": "Zentrales Forum"
+      }
+    ],
+    "daten_nachschlagen": [
+      {
+        "url": "https://www.transfermarkt.de/1-fc-koln/startseite/verein/3",
+        "name": "Transfermarkt Profil",
+        "category": "stats",
+        "source_type": "transfer-data",
+        "trust_level": "trusted-third-party",
+        "notes": null
+      }
+    ],
+    "medien_berichterstattung": [
+      {
+        "url": "https://www.express.de/sport/fussball/1-fc-koeln",
+        "name": "Express (Köln)",
+        "category": "media",
+        "source_type": "local-media",
+        "trust_level": "trusted-third-party",
+        "notes": null
+      }
+    ],
+    "stadion_matchday": [
+      {
+        "url": "https://www.fc.de/stadion/anfahrt",
+        "name": "Anfahrt RheinEnergieStadion",
+        "category": "stadium",
+        "source_type": "travel-info",
+        "trust_level": "official",
+        "notes": null
+      }
+    ],
+    "metadaten": {
+      "last_checked": "2026-04-09T02:30:00Z",
+      "confidence": 1.0,
+      "notes": "Daten für Batch 1 migriert (Aufstieg 25/26).",
+      "missing_fields": [],
+      "update_priority": "medium"
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "basisdaten": {
+      "id": "vfl-osnabrueck",
+      "slug": "vfl-osnabrueck",
+      "name": "VfL Osnabrück",
+      "short_name": "Lila-Weiße",
+      "sport": "fussball",
+      "country": "deutschland",
+      "league": "dritte-liga",
+      "city": "Osnabrück",
+      "federal_state": "Niedersachsen",
+      "stadium_name": "Bremer Brücke",
+      "stadium_location": "Hannes-Haferkamp-Platz 1, 49084 Osnabrück",
+      "stadium_capacity": 16098,
+      "primary_colors_text": "Lila, Weiß"
+    },
+    "offizielle_quellen": [
+      {
+        "url": "https://www.vfl.de",
+        "name": "Offizielle Website",
+        "category": "official",
+        "source_type": "official-club-site",
+        "trust_level": "official",
+        "notes": null
+      },
+      {
+        "url": "https://www.vfl.de/shop",
+        "name": "Fanshop",
+        "category": "official",
+        "source_type": "official-fanshop",
+        "trust_level": "official",
+        "notes": null
+      },
+      {
+        "url": "https://www.instagram.com/vflosnabrueck",
+        "name": "Instagram",
+        "category": "official",
+        "source_type": "official-social",
+        "trust_level": "official",
+        "notes": null
+      }
+    ],
+    "inoffizielle_quellen": [
+      {
+        "url": "http://www.lilaweiss.de",
+        "name": "Lilaweiss.de",
+        "category": "fan",
+        "source_type": "fan-portal",
+        "trust_level": "unofficial",
+        "notes": "Fan-Portal"
+      }
+    ],
+    "daten_nachschlagen": [
+      {
+        "url": "https://www.transfermarkt.de/vfl-osnabruck/startseite/verein/61",
+        "name": "Transfermarkt Profil",
+        "category": "stats",
+        "source_type": "transfer-data",
+        "trust_level": "trusted-third-party",
+        "notes": null
+      }
+    ],
+    "medien_berichterstattung": [
+      {
+        "url": "https://www.noz.de/sport/vfl-osnabrueck",
+        "name": "Neue Osnabrücker Zeitung (VfL)",
+        "category": "media",
+        "source_type": "local-media",
+        "trust_level": "trusted-third-party",
+        "notes": null
+      }
+    ],
+    "stadion_matchday": [
+      {
+        "url": "https://www.vfl.de/stadion/anreise",
+        "name": "Anreise Bremer Brücke",
+        "category": "stadium",
+        "source_type": "travel-info",
+        "trust_level": "official",
+        "notes": null
+      }
+    ],
+    "metadaten": {
+      "last_checked": "2026-04-09T03:30:00Z",
+      "confidence": 1.0,
+      "notes": "Daten für Batch 3 aktualisiert.",
+      "missing_fields": [],
+      "update_priority": "medium"
+    }
+}

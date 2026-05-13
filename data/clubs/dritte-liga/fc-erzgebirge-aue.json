@@ -1,0 +1,90 @@
+{
+  "basisdaten": {
+    "id": "fc-erzgebirge-aue",
+    "slug": "fc-erzgebirge-aue",
+    "name": "FC Erzgebirge Aue",
+    "short_name": "Veilchen",
+    "sport": "fussball",
+    "country": "deutschland",
+    "league": "dritte-liga",
+    "city": "Aue-Bad Schlema",
+    "federal_state": "Sachsen",
+    "stadium_name": "Erzgebirgsstadion",
+    "stadium_location": "Lößnitzer Straße 95, 08280 Aue-Bad Schlema",
+    "stadium_capacity": 15500,
+    "primary_colors_text": "Lila, Weiß"
+  },
+  "offizielle_quellen": [
+    {
+      "url": "https://www.fc-erzgebirge.de",
+      "name": "Offizielle Website",
+      "category": "official",
+      "source_type": "official-club-site",
+      "trust_level": "official",
+      "notes": null
+    },
+    {
+      "url": "https://www.fc-erzgebirge.shop",
+      "name": "Aue Fanshop",
+      "category": "official",
+      "source_type": "official-fanshop",
+      "trust_level": "official",
+      "notes": null
+    },
+    {
+      "url": "https://www.instagram.com/erzgebirgeaue",
+      "name": "Instagram",
+      "category": "official",
+      "source_type": "official-social",
+      "trust_level": "official",
+      "notes": null
+    }
+  ],
+  "inoffizielle_quellen": [
+    {
+      "url": "https://www.veilchenpower.de",
+      "name": "VeilchenPower",
+      "category": "fan",
+      "source_type": "fan-blog",
+      "trust_level": "unofficial",
+      "notes": "Fan-Berichterstattung"
+    }
+  ],
+  "daten_nachschlagen": [
+    {
+      "url": "https://www.transfermarkt.de/fc-erzgebirge-aue/startseite/verein/68",
+      "name": "Transfermarkt Profil",
+      "category": "stats",
+      "source_type": "transfer-data",
+      "trust_level": "trusted-third-party",
+      "notes": null
+    }
+  ],
+  "medien_berichterstattung": [
+    {
+      "url": "https://www.freiepresse.de/sport/aue",
+      "name": "Freie Presse (Aue)",
+      "category": "media",
+      "source_type": "local-media",
+      "trust_level": "trusted-third-party",
+      "notes": null
+    }
+  ],
+  "stadion_matchday": [
+    {
+      "url": "https://www.fc-erzgebirge.de/stadion/anreise",
+      "name": "Anreise Stadion",
+      "category": "stadium",
+      "source_type": "travel-info",
+      "trust_level": "official",
+      "notes": null
+    }
+  ],
+  "metadaten": {
+    "last_checked": "2026-04-09T03:30:00Z",
+    "confidence": 1.0,
+    "notes": "Daten für Batch 3 aktualisiert.",
+    "missing_fields": [],
+    "update_priority": "medium"
+  }
+}

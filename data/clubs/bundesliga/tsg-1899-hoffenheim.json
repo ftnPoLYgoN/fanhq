@@ -1,0 +1,90 @@
+{
+    "basisdaten": {
+      "id": "tsg-1899-hoffenheim",
+      "slug": "tsg-1899-hoffenheim",
+      "name": "TSG 1899 Hoffenheim",
+      "short_name": "Hoffenheim",
+      "sport": "fussball",
+      "country": "deutschland",
+      "league": "bundesliga",
+      "city": "Sinsheim",
+      "federal_state": "Baden-Württemberg",
+      "stadium_name": "PreZero Arena",
+      "stadium_location": "Dietmar-Hopp-Straße 1, 74889 Sinsheim",
+      "stadium_capacity": 30150,
+      "primary_colors_text": "Blau, Weiß"
+    },
+    "offizielle_quellen": [
+      {
+        "url": "https://www.tsg-hoffenheim.de",
+        "name": "Offizielle Website",
+        "category": "official",
+        "source_type": "official-club-site",
+        "trust_level": "official",
+        "notes": null
+      },
+      {
+        "url": "https://shop.tsg-hoffenheim.de",
+        "name": "Fanshop",
+        "category": "official",
+        "source_type": "official-fanshop",
+        "trust_level": "official",
+        "notes": null
+      },
+      {
+        "url": "https://www.instagram.com/tsghoffenheim",
+        "name": "Instagram",
+        "category": "official",
+        "source_type": "official-social",
+        "trust_level": "official",
+        "notes": null
+      }
+    ],
+    "inoffizielle_quellen": [
+      {
+        "url": "https://www.1899-forum.de",
+        "name": "1899-Forum",
+        "category": "fan",
+        "source_type": "fan-forum",
+        "trust_level": "unofficial",
+        "notes": "Unabhängiges Fan-Forum"
+      }
+    ],
+    "daten_nachschlagen": [
+      {
+        "url": "https://www.transfermarkt.de/tsg-1899-hoffenheim/startseite/verein/533",
+        "name": "Transfermarkt Profil",
+        "category": "stats",
+        "source_type": "transfer-data",
+        "trust_level": "trusted-third-party",
+        "notes": null
+      }
+    ],
+    "medien_berichterstattung": [
+      {
+        "url": "https://www.rnz.de/sport/hoffenheim",
+        "name": "Rhein-Neckar-Zeitung (TSG)",
+        "category": "media",
+        "source_type": "local-media",
+        "trust_level": "trusted-third-party",
+        "notes": null
+      }
+    ],
+    "stadion_matchday": [
+      {
+        "url": "https://www.tsg-hoffenheim.de/arena/anreise",
+        "name": "Anreise PreZero Arena",
+        "category": "stadium",
+        "source_type": "travel-info",
+        "trust_level": "official",
+        "notes": null
+      }
+    ],
+    "metadaten": {
+      "last_checked": "2026-04-09T02:19:00Z",
+      "confidence": 1.0,
+      "notes": "Daten für Batch 1 aktualisiert.",
+      "missing_fields": [],
+      "update_priority": "medium"
+    }
+}

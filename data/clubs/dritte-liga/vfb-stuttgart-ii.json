@@ -1,0 +1,90 @@
+{
+    "basisdaten": {
+      "id": "vfb-stuttgart-ii",
+      "slug": "vfb-stuttgart-ii",
+      "name": "VfB Stuttgart II",
+      "short_name": "Junge Wilde",
+      "sport": "fussball",
+      "country": "deutschland",
+      "league": "dritte-liga",
+      "city": "Stuttgart",
+      "federal_state": "Baden-Württemberg",
+      "stadium_name": "WIRmachenDRUCK Arena (Aspach)",
+      "stadium_location": "Im Fautenhau 1, 71546 Aspach",
+      "stadium_capacity": 10001,
+      "primary_colors_text": "Weiß, Rot"
+    },
+    "offizielle_quellen": [
+      {
+        "url": "https://www.vfb.de",
+        "name": "Offizielle Website",
+        "category": "official",
+        "source_type": "official-club-site",
+        "trust_level": "official",
+        "notes": "Hauptportal"
+      },
+      {
+        "url": "https://www.vfb.de/de/vfb/junge-wilde/u21",
+        "name": "VfB U21 (Junge Wilde)",
+        "category": "official",
+        "source_type": "official-club-site",
+        "trust_level": "official",
+        "notes": null
+      },
+      {
+        "url": "https://www.instagram.com/vfb",
+        "name": "Instagram",
+        "category": "official",
+        "source_type": "official-social",
+        "trust_level": "official",
+        "notes": null
+      }
+    ],
+    "inoffizielle_quellen": [
+      {
+        "url": "https://www.brustring-forum.de",
+        "name": "Brustring-Forum",
+        "category": "fan",
+        "source_type": "fan-forum",
+        "trust_level": "unofficial",
+        "notes": "Diskussionen U21/Junge Wilde"
+      }
+    ],
+    "daten_nachschlagen": [
+      {
+        "url": "https://www.transfermarkt.de/vfb-stuttgart-ii/startseite/verein/133",
+        "name": "Transfermarkt Profil",
+        "category": "stats",
+        "source_type": "transfer-data",
+        "trust_level": "trusted-third-party",
+        "notes": null
+      }
+    ],
+    "medien_berichterstattung": [
+      {
+        "url": "https://www.stuttgarter-nachrichten.de/vfb-stuttgart",
+        "name": "Stuttgarter Nachrichten (VfB)",
+        "category": "media",
+        "source_type": "local-media",
+        "trust_level": "trusted-third-party",
+        "notes": null
+      }
+    ],
+    "stadion_matchday": [
+      {
+        "url": "https://www.vfb.de/de/vfb/junge-wilde/stadien",
+        "name": "Spielstätten Info",
+        "category": "stadium",
+        "source_type": "travel-info",
+        "trust_level": "official",
+        "notes": null
+      }
+    ],
+    "metadaten": {
+      "last_checked": "2026-04-09T03:55:00Z",
+      "confidence": 1.0,
+      "notes": "Daten für Batch 3 aktualisiert.",
+      "missing_fields": [],
+      "update_priority": "medium"
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "basisdaten": {
+      "id": "sv-sandhausen",
+      "slug": "sv-sandhausen",
+      "name": "SV Sandhausen 1916",
+      "short_name": "SVS",
+      "sport": "fussball",
+      "country": "deutschland",
+      "league": "dritte-liga",
+      "city": "Sandhausen",
+      "federal_state": "Baden-Württemberg",
+      "stadium_name": "GP Stadion am Hardtwald",
+      "stadium_location": "Jahnstraße 1, 69207 Sandhausen",
+      "stadium_capacity": 15414,
+      "primary_colors_text": "Schwarz, Weiß"
+    },
+    "offizielle_quellen": [
+      {
+        "url": "https://www.svs1916.de",
+        "name": "Offizielle Website",
+        "category": "official",
+        "source_type": "official-club-site",
+        "trust_level": "official",
+        "notes": null
+      },
+      {
+        "url": "https://shop.svs1916.de",
+        "name": "SVS Fanshop",
+        "category": "official",
+        "source_type": "official-fanshop",
+        "trust_level": "official",
+        "notes": null
+      },
+      {
+        "url": "https://www.instagram.com/sv_sandhausen_1916",
+        "name": "Instagram",
+        "category": "official",
+        "source_type": "official-social",
+        "trust_level": "official",
+        "notes": null
+      }
+    ],
+    "inoffizielle_quellen": [
+      {
+        "url": "https://www.svs-fanforum.de",
+        "name": "SVS-Fanforum",
+        "category": "fan",
+        "source_type": "fan-forum",
+        "trust_level": "unofficial",
+        "notes": "Unabhängiger Fantreff"
+      }
+    ],
+    "daten_nachschlagen": [
+      {
+        "url": "https://www.transfermarkt.de/sv-sandhausen/startseite/verein/125",
+        "name": "Transfermarkt Profil",
+        "category": "stats",
+        "source_type": "transfer-data",
+        "trust_level": "trusted-third-party",
+        "notes": null
+      }
+    ],
+    "medien_berichterstattung": [
+      {
+        "url": "https://www.rnz.de/sport/svsandhausen",
+        "name": "Rhein-Neckar-Zeitung (SVS)",
+        "category": "media",
+        "source_type": "local-media",
+        "trust_level": "trusted-third-party",
+        "notes": null
+      }
+    ],
+    "stadion_matchday": [
+      {
+        "url": "https://www.svs1916.de/stadion/anreise",
+        "name": "Anreise GP Stadion",
+        "category": "stadium",
+        "source_type": "travel-info",
+        "trust_level": "official",
+        "notes": null
+      }
+    ],
+    "metadaten": {
+      "last_checked": "2026-04-09T03:40:00Z",
+      "confidence": 1.0,
+      "notes": "Daten für Batch 3 aktualisiert.",
+      "missing_fields": [],
+      "update_priority": "medium"
+    }
+}

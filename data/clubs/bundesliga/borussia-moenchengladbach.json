@@ -1,0 +1,90 @@
+{
+    "basisdaten": {
+      "id": "borussia-moenchengladbach",
+      "slug": "borussia-moenchengladbach",
+      "name": "Borussia Mönchengladbach",
+      "short_name": "Gladbach",
+      "sport": "fussball",
+      "country": "deutschland",
+      "league": "bundesliga",
+      "city": "Mönchengladbach",
+      "federal_state": "Nordrhein-Westfalen",
+      "stadium_name": "BORUSSIA-PARK",
+      "stadium_location": "Hennes-Weisweiler-Allee 1, 41179 Mönchengladbach",
+      "stadium_capacity": 54042,
+      "primary_colors_text": "Weiß, Schwarz, Grün"
+    },
+    "offizielle_quellen": [
+      {
+        "url": "https://www.borussia.de",
+        "name": "Offizielle Website",
+        "category": "official",
+        "source_type": "official-club-site",
+        "trust_level": "official",
+        "notes": null
+      },
+      {
+        "url": "https://shop.borussia.de",
+        "name": "FohlenShop",
+        "category": "official",
+        "source_type": "official-fanshop",
+        "trust_level": "official",
+        "notes": null
+      },
+      {
+        "url": "https://www.instagram.com/borussia",
+        "name": "Instagram",
+        "category": "official",
+        "source_type": "official-social",
+        "trust_level": "official",
+        "notes": null
+      }
+    ],
+    "inoffizielle_quellen": [
+      {
+        "url": "https://www.seitenwahl.de",
+        "name": "Seitenwahl.de",
+        "category": "fan",
+        "source_type": "fan-blog",
+        "trust_level": "unofficial",
+        "notes": "Magazin und Analyse"
+      }
+    ],
+    "daten_nachschlagen": [
+      {
+        "url": "https://www.transfermarkt.de/borussia-monchengladbach/startseite/verein/18",
+        "name": "Transfermarkt Profil",
+        "category": "stats",
+        "source_type": "transfer-data",
+        "trust_level": "trusted-third-party",
+        "notes": null
+      }
+    ],
+    "medien_berichterstattung": [
+      {
+        "url": "https://www.rp-online.de/sport/fussball/borussia-moenchengladbach",
+        "name": "Rheinische Post (Gladbach)",
+        "category": "media",
+        "source_type": "local-media",
+        "trust_level": "trusted-third-party",
+        "notes": null
+      }
+    ],
+    "stadion_matchday": [
+      {
+        "url": "https://www.borussia.de/de/stadion/borussia-park/anfahrt",
+        "name": "Anfahrt BORUSSIA-PARK",
+        "category": "stadium",
+        "source_type": "travel-info",
+        "trust_level": "official",
+        "notes": null
+      }
+    ],
+    "metadaten": {
+      "last_checked": "2026-04-09T02:21:00Z",
+      "confidence": 1.0,
+      "notes": "Daten für Batch 1 aktualisiert.",
+      "missing_fields": [],
+      "update_priority": "medium"
+    }
+}

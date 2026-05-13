@@ -1,0 +1,122 @@
+{
+  "basisdaten": {
+    "id": "fc-bayern-muenchen",
+    "slug": "fc-bayern-muenchen",
+    "name": "FC Bayern München",
+    "short_name": "FC Bayern",
+    "sport": "fussball",
+    "country": "deutschland",
+    "league": "bundesliga",
+    "city": "München",
+    "federal_state": "Bayern",
+    "stadium_name": "Allianz Arena",
+    "stadium_location": "Werner-Heisenberg-Allee 25, 80939 München",
+    "stadium_capacity": 75024,
+    "primary_colors_text": "Rot, Weiß"
+  },
+  "offizielle_quellen": [
+    {
+      "url": "https://fcbayern.com",
+      "name": "Offizielle Website",
+      "category": "official",
+      "source_type": "official-club-site",
+      "trust_level": "official",
+      "notes": null
+    },
+    {
+      "url": "https://fcbayern.com/store",
+      "name": "Offizieller Fanshop",
+      "category": "official",
+      "source_type": "official-fanshop",
+      "trust_level": "official",
+      "notes": null
+    },
+    {
+      "url": "https://tickets.fcbayern.com",
+      "name": "Ticketshop",
+      "category": "official",
+      "source_type": "official-ticketshop",
+      "trust_level": "official",
+      "notes": null
+    },
+    {
+      "url": "https://www.youtube.com/@fcbayern",
+      "name": "YouTube",
+      "category": "official",
+      "source_type": "official-youtube",
+      "trust_level": "official",
+      "notes": null
+    },
+    {
+      "url": "https://www.instagram.com/fcbayern",
+      "name": "Instagram",
+      "category": "official",
+      "source_type": "official-social",
+      "trust_level": "official",
+      "notes": null
+    }
+  ],
+  "inoffizielle_quellen": [
+    {
+      "url": "https://miasanrot.de",
+      "name": "Miasanrot",
+      "category": "fan",
+      "source_type": "fan-blog",
+      "trust_level": "unofficial",
+      "notes": "Hochwertiger Analyse-Blog"
+    },
+    {
+      "url": "https://forum-fc.bayern",
+      "name": "BayernForum.com",
+      "category": "fan",
+      "source_type": "fan-forum",
+      "trust_level": "unofficial",
+      "notes": "Größtes Fan-Forum"
+    }
+  ],
+  "daten_nachschlagen": [
+    {
+      "url": "https://www.transfermarkt.de/fc-bayern-munchen/startseite/verein/27",
+      "name": "Transfermarkt Profil",
+      "category": "stats",
+      "source_type": "transfer-data",
+      "trust_level": "trusted-third-party",
+      "notes": null
+    },
+    {
+      "url": "https://www.kicker.de/bayern-muenchen/info",
+      "name": "Kicker Info",
+      "category": "stats",
+      "source_type": "stats-provider",
+      "trust_level": "trusted-third-party",
+      "notes": null
+    }
+  ],
+  "medien_berichterstattung": [
+    {
+      "url": "https://www.abendzeitung-muenchen.de/sport/fc-bayern",
+      "name": "Abendzeitung München (FC Bayern)",
+      "category": "media",
+      "source_type": "local-media",
+      "trust_level": "trusted-third-party",
+      "notes": null
+    }
+  ],
+  "stadion_matchday": [
+    {
+      "url": "https://allianz-arena.com",
+      "name": "Allianz Arena Website",
+      "category": "stadium",
+      "source_type": "stadium-info",
+      "trust_level": "official",
+      "notes": null
+    }
+  ],
+  "metadaten": {
+    "last_checked": "2026-04-09T02:18:00Z",
+    "confidence": 1.0,
+    "notes": "Daten für Batch 1 aktualisiert.",
+    "missing_fields": [],
+    "update_priority": "medium"
+  }
+}
