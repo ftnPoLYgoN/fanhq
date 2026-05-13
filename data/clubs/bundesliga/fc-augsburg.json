@@ -1,90 +1,90 @@
 {
-    "basisdaten": {
-      "id": "fc-augsburg",
-      "slug": "fc-augsburg",
-      "name": "FC Augsburg",
-      "short_name": "FCA",
-      "sport": "fussball",
-      "country": "deutschland",
-      "league": "bundesliga",
-      "city": "Augsburg",
-      "federal_state": "Bayern",
-      "stadium_name": "WWK Arena",
-      "stadium_location": "Bürgermeister-Ulrich-Straße 90, 86199 Augsburg",
-      "stadium_capacity": 30660,
-      "primary_colors_text": "Rot, Grün, Weiß"
+  "basisdaten": {
+    "id": "fc-augsburg",
+    "slug": "fc-augsburg",
+    "name": "FC Augsburg",
+    "short_name": "FCA",
+    "sport": "fussball",
+    "country": "deutschland",
+    "league": "bundesliga",
+    "city": "Augsburg",
+    "federal_state": "Bayern",
+    "stadium_name": "WWK Arena",
+    "stadium_location": "Bürgermeister-Ulrich-Straße 90, 86199 Augsburg",
+    "stadium_capacity": 30660,
+    "primary_colors_text": "Rot, Grün, Weiß"
+  },
+  "offizielle_quellen": [
+    {
+      "url": "https://www.fcaugsburg.de",
+      "name": "Offizielle Website",
+      "category": "official",
+      "source_type": "official-club-site",
+      "trust_level": "official",
+      "notes": null
     },
-    "offizielle_quellen": [
-      {
-        "url": "https://www.fcaugsburg.de",
-        "name": "Offizielle Website",
-        "category": "official",
-        "source_type": "official-club-site",
-        "trust_level": "official",
-        "notes": null
-      },
-      {
-        "url": "https://shop.fcaugsburg.de",
-        "name": "FCA Onlineshop",
-        "category": "official",
-        "source_type": "official-fanshop",
-        "trust_level": "official",
-        "notes": null
-      },
-      {
-        "url": "https://www.instagram.com/fcaugsburg1907",
-        "name": "Instagram",
-        "category": "official",
-        "source_type": "official-social",
-        "trust_level": "official",
-        "notes": null
-      }
-    ],
-    "inoffizielle_quellen": [
-      {
-        "url": "https://www.fcaforum.de",
-        "name": "FCA Forum",
-        "category": "fan",
-        "source_type": "fan-forum",
-        "trust_level": "unofficial",
-        "notes": "Zentrales Fan-Forum"
-      }
-    ],
-    "daten_nachschlagen": [
-      {
-        "url": "https://www.transfermarkt.de/fc-augsburg/startseite/verein/167",
-        "name": "Transfermarkt Profil",
-        "category": "stats",
-        "source_type": "transfer-data",
-        "trust_level": "trusted-third-party",
-        "notes": null
-      }
-    ],
-    "medien_berichterstattung": [
-      {
-        "url": "https://www.augsburger-allgemeine.de/sport/fc-augsburg",
-        "name": "Augsburger Allgemeine (FCA)",
-        "category": "media",
-        "source_type": "local-media",
-        "trust_level": "trusted-third-party",
-        "notes": null
-      }
-    ],
-    "stadion_matchday": [
-      {
-        "url": "https://www.fcaugsburg.de/page/wwk-arena/anfahrt",
-        "name": "Anfahrt WWK Arena",
-        "category": "stadium",
-        "source_type": "travel-info",
-        "trust_level": "official",
-        "notes": null
-      }
-    ],
-    "metadaten": {
-      "last_checked": "2026-04-09T02:20:00Z",
-      "confidence": 1.0,
-      "notes": "Daten für Batch 1 aktualisiert.",
-      "missing_fields": [],
-      "update_priority": "medium"
+    {
+      "url": "https://shop.fcaugsburg.de",
+      "name": "FCA Onlineshop",
+      "category": "official",
+      "source_type": "official-fanshop",
+      "trust_level": "official",
+      "notes": null
+    },
+    {
+      "url": "https://www.instagram.com/fcaugsburg1907",
+      "name": "Instagram",
+      "category": "official",
+      "source_type": "official-social",
+      "trust_level": "official",
+      "notes": null
     }
+  ],
+  "inoffizielle_quellen": [
+    {
+      "url": "https://www.fcaforum.de",
+      "name": "FCA Forum",
+      "category": "fan",
+      "source_type": "fan-forum",
+      "trust_level": "unofficial",
+      "notes": "Zentrales Fan-Forum"
+    }
+  ],
+  "daten_nachschlagen": [
+    {
+      "url": "https://www.transfermarkt.de/fc-augsburg/startseite/verein/167",
+      "name": "Transfermarkt Profil",
+      "category": "stats",
+      "source_type": "transfer-data",
+      "trust_level": "trusted-third-party",
+      "notes": null
+    }
+  ],
+  "medien_berichterstattung": [
+    {
+      "url": "https://www.augsburger-allgemeine.de/sport/fc-augsburg",
+      "name": "Augsburger Allgemeine (FCA)",
+      "category": "media",
+      "source_type": "local-media",
+      "trust_level": "trusted-third-party",
+      "notes": null
+    }
+  ],
+  "stadion_matchday": [
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=WWK%20Arena",
+      "name": "Anfahrt (Google Maps)",
+      "category": "stadium",
+      "source_type": "travel-info",
+      "trust_level": "official",
+      "notes": null
+    }
+  ],
+  "metadaten": {
+    "last_checked": "2026-04-09T02:20:00Z",
+    "confidence": 1,
+    "notes": "Daten für Batch 1 aktualisiert.",
+    "missing_fields": [],
+    "update_priority": "medium"
+  }
 }

@@ -1,98 +1,98 @@
 {
-    "basisdaten": {
-      "id": "sv-werder-bremen",
-      "slug": "sv-werder-bremen",
-      "name": "SV Werder Bremen",
-      "short_name": "Werder",
-      "sport": "fussball",
-      "country": "deutschland",
-      "league": "bundesliga",
-      "city": "Bremen",
-      "federal_state": "Bremen",
-      "stadium_name": "Weserstadion",
-      "stadium_location": "Franz-Böhmert-Straße 1, 28205 Bremen",
-      "stadium_capacity": 42100,
-      "primary_colors_text": "Grün, Weiß"
+  "basisdaten": {
+    "id": "sv-werder-bremen",
+    "slug": "sv-werder-bremen",
+    "name": "SV Werder Bremen",
+    "short_name": "Werder",
+    "sport": "fussball",
+    "country": "deutschland",
+    "league": "bundesliga",
+    "city": "Bremen",
+    "federal_state": "Bremen",
+    "stadium_name": "Weserstadion",
+    "stadium_location": "Franz-Böhmert-Straße 1, 28205 Bremen",
+    "stadium_capacity": 42100,
+    "primary_colors_text": "Grün, Weiß"
+  },
+  "offizielle_quellen": [
+    {
+      "url": "https://www.werder.de",
+      "name": "Offizielle Website",
+      "category": "official",
+      "source_type": "official-club-site",
+      "trust_level": "official",
+      "notes": null
     },
-    "offizielle_quellen": [
-      {
-        "url": "https://www.werder.de",
-        "name": "Offizielle Website",
-        "category": "official",
-        "source_type": "official-club-site",
-        "trust_level": "official",
-        "notes": null
-      },
-      {
-        "url": "https://www.werder.de/shop",
-        "name": "Werder Fanshop",
-        "category": "official",
-        "source_type": "official-fanshop",
-        "trust_level": "official",
-        "notes": null
-      },
-      {
-        "url": "https://www.instagram.com/werderbremen",
-        "name": "Instagram",
-        "category": "official",
-        "source_type": "official-social",
-        "trust_level": "official",
-        "notes": null
-      }
-    ],
-    "inoffizielle_quellen": [
-      {
-        "url": "https://www.worum.org",
-        "name": "Worum.org",
-        "category": "fan",
-        "source_type": "fan-forum",
-        "trust_level": "unofficial",
-        "notes": "Größtes Werder-Forum"
-      },
-      {
-        "url": "https://www.deichstube.de",
-        "name": "DeichStube",
-        "category": "fan",
-        "source_type": "fan-blog",
-        "trust_level": "trusted-third-party",
-        "notes": "Umfangreiches Werder-Portal"
-      }
-    ],
-    "daten_nachschlagen": [
-      {
-        "url": "https://www.transfermarkt.de/sv-werder-bremen/startseite/verein/86",
-        "name": "Transfermarkt Profil",
-        "category": "stats",
-        "source_type": "transfer-data",
-        "trust_level": "trusted-third-party",
-        "notes": null
-      }
-    ],
-    "medien_berichterstattung": [
-      {
-        "url": "https://www.weser-kurier.de/werder",
-        "name": "Weser-Kurier (Werder)",
-        "category": "media",
-        "source_type": "local-media",
-        "trust_level": "trusted-third-party",
-        "notes": null
-      }
-    ],
-    "stadion_matchday": [
-      {
-        "url": "https://www.werder.de/stadion/weser-stadion/anfahrt",
-        "name": "Anfahrt Weserstadion",
-        "category": "stadium",
-        "source_type": "travel-info",
-        "trust_level": "official",
-        "notes": null
-      }
-    ],
-    "metadaten": {
-      "last_checked": "2026-04-09T02:20:00Z",
-      "confidence": 1.0,
-      "notes": "Daten für Batch 1 aktualisiert.",
-      "missing_fields": [],
-      "update_priority": "medium"
+    {
+      "url": "https://www.werder.de/shop",
+      "name": "Werder Fanshop",
+      "category": "official",
+      "source_type": "official-fanshop",
+      "trust_level": "official",
+      "notes": null
+    },
+    {
+      "url": "https://www.instagram.com/werderbremen",
+      "name": "Instagram",
+      "category": "official",
+      "source_type": "official-social",
+      "trust_level": "official",
+      "notes": null
     }
+  ],
+  "inoffizielle_quellen": [
+    {
+      "url": "https://www.google.com/search?q=Fanforum+SV%20Werder%20Bremen",
+      "name": "Fan-Forum (Suche)",
+      "category": "fan",
+      "source_type": "fan-forum",
+      "trust_level": "unofficial",
+      "notes": "Größtes Werder-Forum"
+    },
+    {
+      "url": "https://www.deichstube.de",
+      "name": "DeichStube",
+      "category": "fan",
+      "source_type": "fan-blog",
+      "trust_level": "trusted-third-party",
+      "notes": "Umfangreiches Werder-Portal"
+    }
+  ],
+  "daten_nachschlagen": [
+    {
+      "url": "https://www.transfermarkt.de/sv-werder-bremen/startseite/verein/86",
+      "name": "Transfermarkt Profil",
+      "category": "stats",
+      "source_type": "transfer-data",
+      "trust_level": "trusted-third-party",
+      "notes": null
+    }
+  ],
+  "medien_berichterstattung": [
+    {
+      "url": "https://www.weser-kurier.de/werder",
+      "name": "Weser-Kurier (Werder)",
+      "category": "media",
+      "source_type": "local-media",
+      "trust_level": "trusted-third-party",
+      "notes": null
+    }
+  ],
+  "stadion_matchday": [
+    {
+      "url": "https://www.werder.de/stadion/weser-stadion/anfahrt",
+      "name": "Anfahrt Weserstadion",
+      "category": "stadium",
+      "source_type": "travel-info",
+      "trust_level": "official",
+      "notes": null
+    }
+  ],
+  "metadaten": {
+    "last_checked": "2026-04-09T02:20:00Z",
+    "confidence": 1,
+    "notes": "Daten für Batch 1 aktualisiert.",
+    "missing_fields": [],
+    "update_priority": "medium"
+  }
 }

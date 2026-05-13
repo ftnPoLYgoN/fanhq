@@ -72,8 +72,8 @@
   ],
   "stadion_matchday": [
     {
-      "url": "https://www.fcingolstadt.de/stadion/ruhrstadion/anreise",
-      "name": "Anreise Audi Sportpark",
+      "url": "https://www.google.com/maps/search/?api=1&query=Audi%20Sportpark",
+      "name": "Anfahrt (Google Maps)",
       "category": "stadium",
       "source_type": "travel-info",
       "trust_level": "official",

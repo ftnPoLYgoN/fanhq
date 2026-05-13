@@ -62,8 +62,8 @@
   ],
   "medien_berichterstattung": [
     {
-      "url": "https://www.sr.de/sr/home/sport/fussball_sve_100.html",
-      "name": "SR Sport (SVE)",
+      "url": "https://news.google.com/search?q=SV%20Elversberg",
+      "name": "Google News (SV Elversberg)",
       "category": "media",
       "source_type": "local-media",
       "trust_level": "trusted-third-party",

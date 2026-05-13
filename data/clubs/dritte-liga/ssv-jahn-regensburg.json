@@ -62,8 +62,8 @@
   ],
   "medien_berichterstattung": [
     {
-      "url": "https://www.br.de/nachrichten/sport/ssv-jahn-regensburg",
-      "name": "BR Sport (Jahn)",
+      "url": "https://news.google.com/search?q=SSV%20Jahn%20Regensburg",
+      "name": "Google News (SSV Jahn Regensburg)",
       "category": "media",
       "source_type": "local-media",
       "trust_level": "trusted-third-party",
@@ -72,8 +72,8 @@
   ],
   "stadion_matchday": [
     {
-      "url": "https://www.ssv-jahn.de/stadion/anreise",
-      "name": "Anfahrt Jahnstadion",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jahnstadion%20Regensburg",
+      "name": "Anfahrt (Google Maps)",
       "category": "stadium",
       "source_type": "travel-info",
       "trust_level": "official",

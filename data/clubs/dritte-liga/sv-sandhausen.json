@@ -24,7 +24,7 @@
       "notes": null
     },
     {
-      "url": "https://shop.svs1916.de",
+      "url": "https://fanshop.svs1916.de/",
       "name": "SVS Fanshop",
       "category": "official",
       "source_type": "official-fanshop",
@@ -42,8 +42,8 @@
   ],
   "inoffizielle_quellen": [
     {
-      "url": "https://www.svs-fanforum.de",
-      "name": "SVS-Fanforum",
+      "url": "https://www.google.com/search?q=Fanforum+SV%20Sandhausen%201916",
+      "name": "Fan-Forum (Suche)",
       "category": "fan",
       "source_type": "fan-forum",
       "trust_level": "unofficial",
@@ -72,8 +72,8 @@
   ],
   "stadion_matchday": [
     {
-      "url": "https://www.svs1916.de/stadion/anreise",
-      "name": "Anreise GP Stadion",
+      "url": "https://www.google.com/maps/search/?api=1&query=GP%20Stadion%20am%20Hardtwald",
+      "name": "Anfahrt (Google Maps)",
       "category": "stadium",
       "source_type": "travel-info",
       "trust_level": "official",

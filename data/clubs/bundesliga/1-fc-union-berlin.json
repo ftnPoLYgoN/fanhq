@@ -42,8 +42,8 @@
   ],
   "inoffizielle_quellen": [
     {
-      "url": "https://www.textilfrei.de",
-      "name": "Textilfrei",
+      "url": "https://www.google.com/search?q=Fanforum+1.%20FC%20Union%20Berlin",
+      "name": "Fan-Forum (Suche)",
       "category": "fan",
       "source_type": "fan-blog",
       "trust_level": "unofficial",
@@ -80,8 +80,8 @@
   ],
   "stadion_matchday": [
     {
-      "url": "https://www.fc-union-berlin.de/de/stadion/anreise",
-      "name": "Anreise Alte Försterei",
+      "url": "https://www.google.com/maps/search/?api=1&query=Stadion%20An%20der%20Alten%20F%C3%B6rsterei",
+      "name": "Anfahrt (Google Maps)",
       "category": "stadium",
       "source_type": "travel-info",
       "trust_level": "official",

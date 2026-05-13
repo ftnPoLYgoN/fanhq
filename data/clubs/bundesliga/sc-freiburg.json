@@ -1,90 +1,90 @@
 {
-    "basisdaten": {
-      "id": "sc-freiburg",
-      "slug": "sc-freiburg",
-      "name": "SC Freiburg",
-      "short_name": "Sport-Club",
-      "sport": "fussball",
-      "country": "deutschland",
-      "league": "bundesliga",
-      "city": "Freiburg im Breisgau",
-      "federal_state": "Baden-Württemberg",
-      "stadium_name": "Europa-Park Stadion",
-      "stadium_location": "Achim-Stocker-Straße 1, 79110 Freiburg im Breisgau",
-      "stadium_capacity": 34700,
-      "primary_colors_text": "Weiß, Rot"
+  "basisdaten": {
+    "id": "sc-freiburg",
+    "slug": "sc-freiburg",
+    "name": "SC Freiburg",
+    "short_name": "Sport-Club",
+    "sport": "fussball",
+    "country": "deutschland",
+    "league": "bundesliga",
+    "city": "Freiburg im Breisgau",
+    "federal_state": "Baden-Württemberg",
+    "stadium_name": "Europa-Park Stadion",
+    "stadium_location": "Achim-Stocker-Straße 1, 79110 Freiburg im Breisgau",
+    "stadium_capacity": 34700,
+    "primary_colors_text": "Weiß, Rot"
+  },
+  "offizielle_quellen": [
+    {
+      "url": "https://www.scfreiburg.com",
+      "name": "Offizielle Website",
+      "category": "official",
+      "source_type": "official-club-site",
+      "trust_level": "official",
+      "notes": null
     },
-    "offizielle_quellen": [
-      {
-        "url": "https://www.scfreiburg.com",
-        "name": "Offizielle Website",
-        "category": "official",
-        "source_type": "official-club-site",
-        "trust_level": "official",
-        "notes": null
-      },
-      {
-        "url": "https://shop.scfreiburg.com",
-        "name": "Fanshop",
-        "category": "official",
-        "source_type": "official-fanshop",
-        "trust_level": "official",
-        "notes": null
-      },
-      {
-        "url": "https://www.instagram.com/scfreiburg",
-        "name": "Instagram",
-        "category": "official",
-        "source_type": "official-social",
-        "trust_level": "official",
-        "notes": null
-      }
-    ],
-    "inoffizielle_quellen": [
-      {
-        "url": "https://www.reddit.com/r/scfreiburg",
-        "name": "r/SCFreiburg",
-        "category": "fan",
-        "source_type": "fan-community",
-        "trust_level": "unofficial",
-        "notes": "Reddit Community"
-      }
-    ],
-    "daten_nachschlagen": [
-      {
-        "url": "https://www.transfermarkt.de/sc-freiburg/startseite/verein/60",
-        "name": "Transfermarkt Profil",
-        "category": "stats",
-        "source_type": "transfer-data",
-        "trust_level": "trusted-third-party",
-        "notes": null
-      }
-    ],
-    "medien_berichterstattung": [
-      {
-        "url": "https://www.badische-zeitung.de/sc-freiburg",
-        "name": "Badische Zeitung (SC Freiburg)",
-        "category": "media",
-        "source_type": "local-media",
-        "trust_level": "trusted-third-party",
-        "notes": null
-      }
-    ],
-    "stadion_matchday": [
-      {
-        "url": "https://www.scfreiburg.com/stadion/europa-park-stadion/anreise",
-        "name": "Anreise Europa-Park Stadion",
-        "category": "stadium",
-        "source_type": "travel-info",
-        "trust_level": "official",
-        "notes": null
-      }
-    ],
-    "metadaten": {
-      "last_checked": "2026-04-09T02:20:00Z",
-      "confidence": 1.0,
-      "notes": "Daten für Batch 1 aktualisiert.",
-      "missing_fields": [],
-      "update_priority": "medium"
+    {
+      "url": "https://shop.scfreiburg.com",
+      "name": "Fanshop",
+      "category": "official",
+      "source_type": "official-fanshop",
+      "trust_level": "official",
+      "notes": null
+    },
+    {
+      "url": "https://www.instagram.com/scfreiburg",
+      "name": "Instagram",
+      "category": "official",
+      "source_type": "official-social",
+      "trust_level": "official",
+      "notes": null
     }
+  ],
+  "inoffizielle_quellen": [
+    {
+      "url": "https://www.reddit.com/r/scfreiburg",
+      "name": "r/SCFreiburg",
+      "category": "fan",
+      "source_type": "fan-community",
+      "trust_level": "unofficial",
+      "notes": "Reddit Community"
+    }
+  ],
+  "daten_nachschlagen": [
+    {
+      "url": "https://www.transfermarkt.de/sc-freiburg/startseite/verein/60",
+      "name": "Transfermarkt Profil",
+      "category": "stats",
+      "source_type": "transfer-data",
+      "trust_level": "trusted-third-party",
+      "notes": null
+    }
+  ],
+  "medien_berichterstattung": [
+    {
+      "url": "https://www.badische-zeitung.de/sc-freiburg",
+      "name": "Badische Zeitung (SC Freiburg)",
+      "category": "media",
+      "source_type": "local-media",
+      "trust_level": "trusted-third-party",
+      "notes": null
+    }
+  ],
+  "stadion_matchday": [
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Europa-Park%20Stadion",
+      "name": "Anfahrt (Google Maps)",
+      "category": "stadium",
+      "source_type": "travel-info",
+      "trust_level": "official",
+      "notes": null
+    }
+  ],
+  "metadaten": {
+    "last_checked": "2026-04-09T02:20:00Z",
+    "confidence": 1,
+    "notes": "Daten für Batch 1 aktualisiert.",
+    "missing_fields": [],
+    "update_priority": "medium"
+  }
 }

@@ -1,90 +1,90 @@
 {
-    "basisdaten": {
-      "id": "borussia-dortmund-ii",
-      "slug": "borussia-dortmund-ii",
-      "name": "Borussia Dortmund II",
-      "short_name": "BVB II",
-      "sport": "fussball",
-      "country": "deutschland",
-      "league": "dritte-liga",
-      "city": "Dortmund",
-      "federal_state": "Nordrhein-Westfalen",
-      "stadium_name": "Stadion Rote Erde",
-      "stadium_location": "Strobelallee 50, 44139 Dortmund",
-      "stadium_capacity": 9999,
-      "primary_colors_text": "Schwarz, Gelb"
+  "basisdaten": {
+    "id": "borussia-dortmund-ii",
+    "slug": "borussia-dortmund-ii",
+    "name": "Borussia Dortmund II",
+    "short_name": "BVB II",
+    "sport": "fussball",
+    "country": "deutschland",
+    "league": "dritte-liga",
+    "city": "Dortmund",
+    "federal_state": "Nordrhein-Westfalen",
+    "stadium_name": "Stadion Rote Erde",
+    "stadium_location": "Strobelallee 50, 44139 Dortmund",
+    "stadium_capacity": 9999,
+    "primary_colors_text": "Schwarz, Gelb"
+  },
+  "offizielle_quellen": [
+    {
+      "url": "https://www.bvb.de",
+      "name": "Offizielle Website",
+      "category": "official",
+      "source_type": "official-club-site",
+      "trust_level": "official",
+      "notes": "Hauptportal BVB"
     },
-    "offizielle_quellen": [
-      {
-        "url": "https://www.bvb.de",
-        "name": "Offizielle Website",
-        "category": "official",
-        "source_type": "official-club-site",
-        "trust_level": "official",
-        "notes": "Hauptportal BVB"
-      },
-      {
-        "url": "https://www.bvb.de/mannschaften/u23",
-        "name": "U23 Matchcenter",
-        "category": "official",
-        "source_type": "official-club-site",
-        "trust_level": "official",
-        "notes": null
-      },
-      {
-        "url": "https://www.instagram.com/bvb09",
-        "name": "Instagram",
-        "category": "official",
-        "source_type": "official-social",
-        "trust_level": "official",
-        "notes": null
-      }
-    ],
-    "inoffizielle_quellen": [
-      {
-        "url": "https://www.bvb-forum.de",
-        "name": "BVB-Forum (Schwatzgelb)",
-        "category": "fan",
-        "source_type": "fan-forum",
-        "trust_level": "unofficial",
-        "notes": "Zentrale Community"
-      }
-    ],
-    "daten_nachschlagen": [
-      {
-        "url": "https://www.transfermarkt.de/borussia-dortmund-ii/startseite/verein/490",
-        "name": "Transfermarkt Profil",
-        "category": "stats",
-        "source_type": "transfer-data",
-        "trust_level": "trusted-third-party",
-        "notes": null
-      }
-    ],
-    "medien_berichterstattung": [
-      {
-        "url": "https://www.ruhrnachrichten.de/bvb",
-        "name": "Ruhr Nachrichten (BVB)",
-        "category": "media",
-        "source_type": "local-media",
-        "trust_level": "trusted-third-party",
-        "notes": null
-      }
-    ],
-    "stadion_matchday": [
-      {
-        "url": "https://www.bvb.de/der-bvb/stadium/anreise",
-        "name": "Anreise Rote Erde",
-        "category": "stadium",
-        "source_type": "travel-info",
-        "trust_level": "official",
-        "notes": null
-      }
-    ],
-    "metadaten": {
-      "last_checked": "2026-04-09T03:50:00Z",
-      "confidence": 1.0,
-      "notes": "Daten für Batch 3 aktualisiert.",
-      "missing_fields": [],
-      "update_priority": "medium"
+    {
+      "url": "https://www.bvb.de/mannschaften/u23",
+      "name": "U23 Matchcenter",
+      "category": "official",
+      "source_type": "official-club-site",
+      "trust_level": "official",
+      "notes": null
+    },
+    {
+      "url": "https://www.instagram.com/bvb09",
+      "name": "Instagram",
+      "category": "official",
+      "source_type": "official-social",
+      "trust_level": "official",
+      "notes": null
     }
+  ],
+  "inoffizielle_quellen": [
+    {
+      "url": "https://www.bvb-forum.de",
+      "name": "BVB-Forum (Schwatzgelb)",
+      "category": "fan",
+      "source_type": "fan-forum",
+      "trust_level": "unofficial",
+      "notes": "Zentrale Community"
+    }
+  ],
+  "daten_nachschlagen": [
+    {
+      "url": "https://www.transfermarkt.de/borussia-dortmund-ii/startseite/verein/490",
+      "name": "Transfermarkt Profil",
+      "category": "stats",
+      "source_type": "transfer-data",
+      "trust_level": "trusted-third-party",
+      "notes": null
+    }
+  ],
+  "medien_berichterstattung": [
+    {
+      "url": "https://www.ruhrnachrichten.de/bvb",
+      "name": "Ruhr Nachrichten (BVB)",
+      "category": "media",
+      "source_type": "local-media",
+      "trust_level": "trusted-third-party",
+      "notes": null
+    }
+  ],
+  "stadion_matchday": [
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Stadion%20Rote%20Erde",
+      "name": "Anfahrt (Google Maps)",
+      "category": "stadium",
+      "source_type": "travel-info",
+      "trust_level": "official",
+      "notes": null
+    }
+  ],
+  "metadaten": {
+    "last_checked": "2026-04-09T03:50:00Z",
+    "confidence": 1,
+    "notes": "Daten für Batch 3 aktualisiert.",
+    "missing_fields": [],
+    "update_priority": "medium"
+  }
 }

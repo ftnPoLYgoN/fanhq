@@ -62,8 +62,8 @@
   ],
   "medien_berichterstattung": [
     {
-      "url": "https://www.swr.de/sport/fussball/vfb-stuttgart/index.html",
-      "name": "SWR Sport (VfB)",
+      "url": "https://news.google.com/search?q=VfB%20Stuttgart%20II",
+      "name": "Google News (VfB Stuttgart II)",
       "category": "media",
       "source_type": "local-media",
       "trust_level": "trusted-third-party",
@@ -72,8 +72,8 @@
   ],
   "stadion_matchday": [
     {
-      "url": "https://www.vfb.de/de/vfb/junge-wilde/stadien",
-      "name": "Spielstätten Info",
+      "url": "https://www.google.com/maps/search/?api=1&query=WIRmachenDRUCK%20Arena%20(Aspach)",
+      "name": "Anfahrt (Google Maps)",
       "category": "stadium",
       "source_type": "travel-info",
       "trust_level": "official",

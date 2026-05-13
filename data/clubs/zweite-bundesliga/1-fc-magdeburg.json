@@ -24,7 +24,7 @@
       "notes": null
     },
     {
-      "url": "https://www.fcm-fanshop.de",
+      "url": "https://1fcm.de/shop",
       "name": "FCM Fanshop",
       "category": "official",
       "source_type": "official-fanshop",
@@ -42,8 +42,8 @@
   ],
   "inoffizielle_quellen": [
     {
-      "url": "https://www.fcm-fans.de",
-      "name": "FCM-Fans",
+      "url": "https://www.google.com/search?q=Fanforum+1.%20FC%20Magdeburg",
+      "name": "Fan-Forum (Suche)",
       "category": "fan",
       "source_type": "fan-forum",
       "trust_level": "unofficial",
@@ -72,8 +72,8 @@
   ],
   "stadion_matchday": [
     {
-      "url": "https://1.fc-magdeburg.de/stadion/anreise",
-      "name": "Anreise Arena",
+      "url": "https://www.google.com/maps/search/?api=1&query=AVNET%20Arena",
+      "name": "Anfahrt (Google Maps)",
       "category": "stadium",
       "source_type": "travel-info",
       "trust_level": "official",

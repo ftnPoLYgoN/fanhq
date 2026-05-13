@@ -62,8 +62,8 @@
   ],
   "medien_berichterstattung": [
     {
-      "url": "https://www.swr.de/sport/fussball/vfb-stuttgart/index.html",
-      "name": "SWR Sport (VfB)",
+      "url": "https://news.google.com/search?q=VfB%20Stuttgart",
+      "name": "Google News (VfB Stuttgart)",
       "category": "media",
       "source_type": "local-media",
       "trust_level": "trusted-third-party",
@@ -72,8 +72,8 @@
   ],
   "stadion_matchday": [
     {
-      "url": "https://www.mhparena-stuttgart.de/besucher/anreise",
-      "name": "Anreise MHP Arena",
+      "url": "https://www.google.com/maps/search/?api=1&query=MHP%20Arena",
+      "name": "Anfahrt (Google Maps)",
       "category": "stadium",
       "source_type": "travel-info",
       "trust_level": "official",

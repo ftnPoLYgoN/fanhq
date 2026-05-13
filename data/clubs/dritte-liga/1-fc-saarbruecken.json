@@ -42,8 +42,8 @@
   ],
   "inoffizielle_quellen": [
     {
-      "url": "https://www.fcsaarbruecken.de",
-      "name": "FCS-Forum",
+      "url": "https://www.google.com/search?q=Fanforum+1.%20FC%20Saarbr%C3%BCcken",
+      "name": "Fan-Forum (Suche)",
       "category": "fan",
       "source_type": "fan-forum",
       "trust_level": "unofficial",
@@ -62,8 +62,8 @@
   ],
   "medien_berichterstattung": [
     {
-      "url": "https://www.sr.de/sr/home/sport/fussball_fcs_100.html",
-      "name": "SR Sport (FCS)",
+      "url": "https://news.google.com/search?q=1.%20FC%20Saarbr%C3%BCcken",
+      "name": "Google News (1. FC Saarbrücken)",
       "category": "media",
       "source_type": "local-media",
       "trust_level": "trusted-third-party",

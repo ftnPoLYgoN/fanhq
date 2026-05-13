@@ -24,7 +24,7 @@
       "notes": null
     },
     {
-      "url": "https://www.svw07-shop.de",
+      "url": "https://www.shop.svw07.de/",
       "name": "Waldhof Fanshop",
       "category": "official",
       "source_type": "official-fanshop",
@@ -70,8 +70,8 @@
   ],
   "medien_berichterstattung": [
     {
-      "url": "https://www.swr.de/sport/fussball/sv-waldhof-mannheim/index.html",
-      "name": "SWR Sport (Waldhof)",
+      "url": "https://news.google.com/search?q=SV%20Waldhof%20Mannheim%2007",
+      "name": "Google News (SV Waldhof Mannheim 07)",
       "category": "media",
       "source_type": "local-media",
       "trust_level": "trusted-third-party",

@@ -62,8 +62,8 @@
   ],
   "medien_berichterstattung": [
     {
-      "url": "https://www.swr.de/sport/fussball/1899-hoffenheim/index.html",
-      "name": "SWR Sport (Hoffenheim)",
+      "url": "https://news.google.com/search?q=TSG%201899%20Hoffenheim",
+      "name": "Google News (TSG 1899 Hoffenheim)",
       "category": "media",
       "source_type": "local-media",
       "trust_level": "trusted-third-party",

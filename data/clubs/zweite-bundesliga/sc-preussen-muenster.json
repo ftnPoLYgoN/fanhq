@@ -1,90 +1,90 @@
 {
-    "basisdaten": {
-      "id": "sc-preussen-muenster",
-      "slug": "sc-preussen-muenster",
-      "name": "SC Preußen Münster",
-      "short_name": "Preußen",
-      "sport": "fussball",
-      "country": "deutschland",
-      "league": "zweite-bundesliga",
-      "city": "Münster",
-      "federal_state": "Nordrhein-Westfalen",
-      "stadium_name": "LVM-Preußenstadion",
-      "stadium_location": "Hammer Straße 302, 48153 Münster",
-      "stadium_capacity": 12794,
-      "primary_colors_text": "Schwarz, Weiß, Grün"
+  "basisdaten": {
+    "id": "sc-preussen-muenster",
+    "slug": "sc-preussen-muenster",
+    "name": "SC Preußen Münster",
+    "short_name": "Preußen",
+    "sport": "fussball",
+    "country": "deutschland",
+    "league": "zweite-bundesliga",
+    "city": "Münster",
+    "federal_state": "Nordrhein-Westfalen",
+    "stadium_name": "LVM-Preußenstadion",
+    "stadium_location": "Hammer Straße 302, 48153 Münster",
+    "stadium_capacity": 12794,
+    "primary_colors_text": "Schwarz, Weiß, Grün"
+  },
+  "offizielle_quellen": [
+    {
+      "url": "https://www.scpreussen-muenster.de",
+      "name": "Offizielle Website",
+      "category": "official",
+      "source_type": "official-club-site",
+      "trust_level": "official",
+      "notes": null
     },
-    "offizielle_quellen": [
-      {
-        "url": "https://www.scpreussen-muenster.de",
-        "name": "Offizielle Website",
-        "category": "official",
-        "source_type": "official-club-site",
-        "trust_level": "official",
-        "notes": null
-      },
-      {
-        "url": "https://www.scpreussen-shop.de",
-        "name": "Preußen Fanshop",
-        "category": "official",
-        "source_type": "official-fanshop",
-        "trust_level": "official",
-        "notes": null
-      },
-      {
-        "url": "https://www.instagram.com/preussen06",
-        "name": "Instagram",
-        "category": "official",
-        "source_type": "official-social",
-        "trust_level": "official",
-        "notes": null
-      }
-    ],
-    "inoffizielle_quellen": [
-      {
-        "url": "https://www.preussen-muenster.net",
-        "name": "Preußen-Forum",
-        "category": "fan",
-        "source_type": "fan-forum",
-        "trust_level": "unofficial",
-        "notes": "Traditionsreiches Forum"
-      }
-    ],
-    "daten_nachschlagen": [
-      {
-        "url": "https://www.transfermarkt.de/sc-preussen-munster/startseite/verein/106",
-        "name": "Transfermarkt Profil",
-        "category": "stats",
-        "source_type": "transfer-data",
-        "trust_level": "trusted-third-party",
-        "notes": null
-      }
-    ],
-    "medien_berichterstattung": [
-      {
-        "url": "https://www.wn.de/sport/lokalsport/preussen-muenster",
-        "name": "Westfälische Nachrichten (Preußen)",
-        "category": "media",
-        "source_type": "local-media",
-        "trust_level": "trusted-third-party",
-        "notes": null
-      }
-    ],
-    "stadion_matchday": [
-      {
-        "url": "https://www.scpreussen-muenster.de/stadion/anreise",
-        "name": "Anreise Preußenstadion",
-        "category": "stadium",
-        "source_type": "travel-info",
-        "trust_level": "official",
-        "notes": null
-      }
-    ],
-    "metadaten": {
-      "last_checked": "2026-04-09T03:10:00Z",
-      "confidence": 1.0,
-      "notes": "Daten für Batch 2 aktualisiert.",
-      "missing_fields": [],
-      "update_priority": "medium"
+    {
+      "url": "https://shop.scpreussen-muenster.de/",
+      "name": "Preußen Fanshop",
+      "category": "official",
+      "source_type": "official-fanshop",
+      "trust_level": "official",
+      "notes": null
+    },
+    {
+      "url": "https://www.instagram.com/preussen06",
+      "name": "Instagram",
+      "category": "official",
+      "source_type": "official-social",
+      "trust_level": "official",
+      "notes": null
     }
+  ],
+  "inoffizielle_quellen": [
+    {
+      "url": "https://www.google.com/search?q=Fanforum+SC%20Preu%C3%9Fen%20M%C3%BCnster",
+      "name": "Fan-Forum (Suche)",
+      "category": "fan",
+      "source_type": "fan-forum",
+      "trust_level": "unofficial",
+      "notes": "Traditionsreiches Forum"
+    }
+  ],
+  "daten_nachschlagen": [
+    {
+      "url": "https://www.transfermarkt.de/sc-preussen-munster/startseite/verein/106",
+      "name": "Transfermarkt Profil",
+      "category": "stats",
+      "source_type": "transfer-data",
+      "trust_level": "trusted-third-party",
+      "notes": null
+    }
+  ],
+  "medien_berichterstattung": [
+    {
+      "url": "https://www.wn.de/sport/lokalsport/preussen-muenster",
+      "name": "Westfälische Nachrichten (Preußen)",
+      "category": "media",
+      "source_type": "local-media",
+      "trust_level": "trusted-third-party",
+      "notes": null
+    }
+  ],
+  "stadion_matchday": [
+    {
+      "url": "https://www.scpreussen-muenster.de/stadion/anreise",
+      "name": "Anreise Preußenstadion",
+      "category": "stadium",
+      "source_type": "travel-info",
+      "trust_level": "official",
+      "notes": null
+    }
+  ],
+  "metadaten": {
+    "last_checked": "2026-04-09T03:10:00Z",
+    "confidence": 1,
+    "notes": "Daten für Batch 2 aktualisiert.",
+    "missing_fields": [],
+    "update_priority": "medium"
+  }
 }

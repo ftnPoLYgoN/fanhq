@@ -72,8 +72,8 @@
   ],
   "stadion_matchday": [
     {
-      "url": "https://www.fcenergie.de/stadion/anreise",
-      "name": "Anreise Stadion",
+      "url": "https://www.google.com/maps/search/?api=1&query=LEAG%20Energie%20Stadion",
+      "name": "Anfahrt (Google Maps)",
       "category": "stadium",
       "source_type": "travel-info",
       "trust_level": "official",
@@ -82,7 +82,7 @@
   ],
   "metadaten": {
     "last_checked": "2026-04-09T03:20:00Z",
-    "confidence": 1.0,
+    "confidence": 1,
     "notes": "Daten für Batch 3 aktualisiert.",
     "missing_fields": [],
     "update_priority": "medium"

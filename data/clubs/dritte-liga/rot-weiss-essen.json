@@ -70,8 +70,8 @@
   ],
   "medien_berichterstattung": [
     {
-      "url": "https://www.reviersport.de/vereine/rot-weiss-essen/",
-      "name": "RevierSport (RWE)",
+      "url": "https://news.google.com/search?q=Rot-Weiss%20Essen",
+      "name": "Google News (Rot-Weiss Essen)",
       "category": "media",
       "source_type": "local-media",
       "trust_level": "trusted-third-party",
@@ -80,8 +80,8 @@
   ],
   "stadion_matchday": [
     {
-      "url": "https://www.rot-weiss-essen.de/stadion/anreise",
-      "name": "Anreise Hafenstraße",
+      "url": "https://www.google.com/maps/search/?api=1&query=Stadion%20an%20der%20Hafenstra%C3%9Fe",
+      "name": "Anfahrt (Google Maps)",
       "category": "stadium",
       "source_type": "travel-info",
       "trust_level": "official",

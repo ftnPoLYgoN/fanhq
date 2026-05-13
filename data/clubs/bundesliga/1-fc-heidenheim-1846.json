@@ -1,90 +1,90 @@
 {
-    "basisdaten": {
-      "id": "1-fc-heidenheim-1846",
-      "slug": "1-fc-heidenheim-1846",
-      "name": "1. FC Heidenheim 1846",
-      "short_name": "Heidenheim",
-      "sport": "fussball",
-      "country": "deutschland",
-      "league": "bundesliga",
-      "city": "Heidenheim an der Brenz",
-      "federal_state": "Baden-Württemberg",
-      "stadium_name": "Voith-Arena",
-      "stadium_location": "Schloßhaustraße 162, 89522 Heidenheim an der Brenz",
-      "stadium_capacity": 15000,
-      "primary_colors_text": "Rot, Weiß, Blau"
+  "basisdaten": {
+    "id": "1-fc-heidenheim-1846",
+    "slug": "1-fc-heidenheim-1846",
+    "name": "1. FC Heidenheim 1846",
+    "short_name": "Heidenheim",
+    "sport": "fussball",
+    "country": "deutschland",
+    "league": "bundesliga",
+    "city": "Heidenheim an der Brenz",
+    "federal_state": "Baden-Württemberg",
+    "stadium_name": "Voith-Arena",
+    "stadium_location": "Schloßhaustraße 162, 89522 Heidenheim an der Brenz",
+    "stadium_capacity": 15000,
+    "primary_colors_text": "Rot, Weiß, Blau"
+  },
+  "offizielle_quellen": [
+    {
+      "url": "https://www.fc-heidenheim.de",
+      "name": "Offizielle Website",
+      "category": "official",
+      "source_type": "official-club-site",
+      "trust_level": "official",
+      "notes": null
     },
-    "offizielle_quellen": [
-      {
-        "url": "https://www.fc-heidenheim.de",
-        "name": "Offizielle Website",
-        "category": "official",
-        "source_type": "official-club-site",
-        "trust_level": "official",
-        "notes": null
-      },
-      {
-        "url": "https://shop.fc-heidenheim.de",
-        "name": "FCH Fanshop",
-        "category": "official",
-        "source_type": "official-fanshop",
-        "trust_level": "official",
-        "notes": null
-      },
-      {
-        "url": "https://www.instagram.com/fch_1846",
-        "name": "Instagram",
-        "category": "official",
-        "source_type": "official-social",
-        "trust_level": "official",
-        "notes": null
-      }
-    ],
-    "inoffizielle_quellen": [
-      {
-        "url": "https://www.transfermarkt.de/1-fc-heidenheim-1846/thread/forum/163",
-        "name": "FCH Forum (Transfermarkt)",
-        "category": "fan",
-        "source_type": "fan-forum",
-        "trust_level": "unofficial",
-        "notes": "Aktive Fan-Community"
-      }
-    ],
-    "daten_nachschlagen": [
-      {
-        "url": "https://www.transfermarkt.de/1-fc-heidenheim-1846/startseite/verein/2036",
-        "name": "Transfermarkt Profil",
-        "category": "stats",
-        "source_type": "transfer-data",
-        "trust_level": "trusted-third-party",
-        "notes": null
-      }
-    ],
-    "medien_berichterstattung": [
-      {
-        "url": "https://www.hz.de/sport/1-fc-heidenheim",
-        "name": "Heidenheimer Zeitung (FCH)",
-        "category": "media",
-        "source_type": "local-media",
-        "trust_level": "trusted-third-party",
-        "notes": null
-      }
-    ],
-    "stadion_matchday": [
-      {
-        "url": "https://www.fc-heidenheim.de/stadion/voith-arena/anfahrt",
-        "name": "Anfahrt Voith-Arena",
-        "category": "stadium",
-        "source_type": "travel-info",
-        "trust_level": "official",
-        "notes": null
-      }
-    ],
-    "metadaten": {
-      "last_checked": "2026-04-09T02:22:00Z",
-      "confidence": 1.0,
-      "notes": "Daten für Batch 1 aktualisiert.",
-      "missing_fields": [],
-      "update_priority": "medium"
+    {
+      "url": "https://fanartikel.fc-heidenheim.de",
+      "name": "FCH Fanshop",
+      "category": "official",
+      "source_type": "official-fanshop",
+      "trust_level": "official",
+      "notes": null
+    },
+    {
+      "url": "https://www.instagram.com/fch_1846",
+      "name": "Instagram",
+      "category": "official",
+      "source_type": "official-social",
+      "trust_level": "official",
+      "notes": null
     }
+  ],
+  "inoffizielle_quellen": [
+    {
+      "url": "https://www.transfermarkt.de/1-fc-heidenheim-1846/thread/forum/163",
+      "name": "FCH Forum (Transfermarkt)",
+      "category": "fan",
+      "source_type": "fan-forum",
+      "trust_level": "unofficial",
+      "notes": "Aktive Fan-Community"
+    }
+  ],
+  "daten_nachschlagen": [
+    {
+      "url": "https://www.transfermarkt.de/1-fc-heidenheim-1846/startseite/verein/2036",
+      "name": "Transfermarkt Profil",
+      "category": "stats",
+      "source_type": "transfer-data",
+      "trust_level": "trusted-third-party",
+      "notes": null
+    }
+  ],
+  "medien_berichterstattung": [
+    {
+      "url": "https://www.hz.de/sport/1-fc-heidenheim",
+      "name": "Heidenheimer Zeitung (FCH)",
+      "category": "media",
+      "source_type": "local-media",
+      "trust_level": "trusted-third-party",
+      "notes": null
+    }
+  ],
+  "stadion_matchday": [
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Voith-Arena",
+      "name": "Anfahrt (Google Maps)",
+      "category": "stadium",
+      "source_type": "travel-info",
+      "trust_level": "official",
+      "notes": null
+    }
+  ],
+  "metadaten": {
+    "last_checked": "2026-04-09T02:22:00Z",
+    "confidence": 1,
+    "notes": "Daten für Batch 1 aktualisiert.",
+    "missing_fields": [],
+    "update_priority": "medium"
+  }
 }

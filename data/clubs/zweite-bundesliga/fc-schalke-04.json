@@ -1,90 +1,90 @@
 {
-    "basisdaten": {
-      "id": "fc-schalke-04",
-      "slug": "fc-schalke-04",
-      "name": "FC Schalke 04",
-      "short_name": "Schalke",
-      "sport": "fussball",
-      "country": "deutschland",
-      "league": "zweite-bundesliga",
-      "city": "Gelsenkirchen",
-      "federal_state": "Nordrhein-Westfalen",
-      "stadium_name": "VELTINS-Arena",
-      "stadium_location": "Rudi-Assauer-Platz 1, 45891 Gelsenkirchen",
-      "stadium_capacity": 62271,
-      "primary_colors_text": "Blau, Weiß"
+  "basisdaten": {
+    "id": "fc-schalke-04",
+    "slug": "fc-schalke-04",
+    "name": "FC Schalke 04",
+    "short_name": "Schalke",
+    "sport": "fussball",
+    "country": "deutschland",
+    "league": "zweite-bundesliga",
+    "city": "Gelsenkirchen",
+    "federal_state": "Nordrhein-Westfalen",
+    "stadium_name": "VELTINS-Arena",
+    "stadium_location": "Rudi-Assauer-Platz 1, 45891 Gelsenkirchen",
+    "stadium_capacity": 62271,
+    "primary_colors_text": "Blau, Weiß"
+  },
+  "offizielle_quellen": [
+    {
+      "url": "https://schalke04.de",
+      "name": "Offizielle Website",
+      "category": "official",
+      "source_type": "official-club-site",
+      "trust_level": "official",
+      "notes": null
     },
-    "offizielle_quellen": [
-      {
-        "url": "https://schalke04.de",
-        "name": "Offizielle Website",
-        "category": "official",
-        "source_type": "official-club-site",
-        "trust_level": "official",
-        "notes": null
-      },
-      {
-        "url": "https://shop.schalke04.de",
-        "name": "S04 Fanshop",
-        "category": "official",
-        "source_type": "official-fanshop",
-        "trust_level": "official",
-        "notes": null
-      },
-      {
-        "url": "https://www.instagram.com/s04",
-        "name": "Instagram",
-        "category": "official",
-        "source_type": "official-social",
-        "trust_level": "official",
-        "notes": null
-      }
-    ],
-    "inoffizielle_quellen": [
-      {
-        "url": "https://www.schalker-freunde-forum.de",
-        "name": "Schalker Freunde",
-        "category": "fan",
-        "source_type": "fan-forum",
-        "trust_level": "unofficial",
-        "notes": "Fan-Forum"
-      }
-    ],
-    "daten_nachschlagen": [
-      {
-        "url": "https://www.transfermarkt.de/fc-schalke-04/startseite/verein/33",
-        "name": "Transfermarkt Profil",
-        "category": "stats",
-        "source_type": "transfer-data",
-        "trust_level": "trusted-third-party",
-        "notes": null
-      }
-    ],
-    "medien_berichterstattung": [
-      {
-        "url": "https://www.waz.de/sport/fussball/s04",
-        "name": "WAZ (Schalke)",
-        "category": "media",
-        "source_type": "local-media",
-        "trust_level": "trusted-third-party",
-        "notes": null
-      }
-    ],
-    "stadion_matchday": [
-      {
-        "url": "https://schalke04.de/veltins-arena/anreise",
-        "name": "Anreise VELTINS-Arena",
-        "category": "stadium",
-        "source_type": "travel-info",
-        "trust_level": "official",
-        "notes": null
-      }
-    ],
-    "metadaten": {
-      "last_checked": "2026-04-09T02:33:00Z",
-      "confidence": 1.0,
-      "notes": "Daten für Batch 2 aktualisiert.",
-      "missing_fields": [],
-      "update_priority": "medium"
+    {
+      "url": "https://shop.schalke04.de",
+      "name": "S04 Fanshop",
+      "category": "official",
+      "source_type": "official-fanshop",
+      "trust_level": "official",
+      "notes": null
+    },
+    {
+      "url": "https://www.instagram.com/s04",
+      "name": "Instagram",
+      "category": "official",
+      "source_type": "official-social",
+      "trust_level": "official",
+      "notes": null
     }
+  ],
+  "inoffizielle_quellen": [
+    {
+      "url": "https://www.schalker-freunde-forum.de",
+      "name": "Schalker Freunde",
+      "category": "fan",
+      "source_type": "fan-forum",
+      "trust_level": "unofficial",
+      "notes": "Fan-Forum"
+    }
+  ],
+  "daten_nachschlagen": [
+    {
+      "url": "https://www.transfermarkt.de/fc-schalke-04/startseite/verein/33",
+      "name": "Transfermarkt Profil",
+      "category": "stats",
+      "source_type": "transfer-data",
+      "trust_level": "trusted-third-party",
+      "notes": null
+    }
+  ],
+  "medien_berichterstattung": [
+    {
+      "url": "https://www.waz.de/sport/fussball/s04",
+      "name": "WAZ (Schalke)",
+      "category": "media",
+      "source_type": "local-media",
+      "trust_level": "trusted-third-party",
+      "notes": null
+    }
+  ],
+  "stadion_matchday": [
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=VELTINS-Arena",
+      "name": "Anfahrt (Google Maps)",
+      "category": "stadium",
+      "source_type": "travel-info",
+      "trust_level": "official",
+      "notes": null
+    }
+  ],
+  "metadaten": {
+    "last_checked": "2026-04-09T02:33:00Z",
+    "confidence": 1,
+    "notes": "Daten für Batch 2 aktualisiert.",
+    "missing_fields": [],
+    "update_priority": "medium"
+  }
 }

@@ -62,8 +62,8 @@
   ],
   "medien_berichterstattung": [
     {
-      "url": "https://www.mdr.de/sport/fussball_3l/erzgebirge-aue-100.html",
-      "name": "MDR Sport (Aue)",
+      "url": "https://news.google.com/search?q=FC%20Erzgebirge%20Aue",
+      "name": "Google News (FC Erzgebirge Aue)",
       "category": "media",
       "source_type": "local-media",
       "trust_level": "trusted-third-party",
@@ -72,8 +72,8 @@
   ],
   "stadion_matchday": [
     {
-      "url": "https://www.fc-erzgebirge.de/stadion/anreise",
-      "name": "Anreise Stadion",
+      "url": "https://www.google.com/maps/search/?api=1&query=Erzgebirgsstadion",
+      "name": "Anfahrt (Google Maps)",
       "category": "stadium",
       "source_type": "travel-info",
       "trust_level": "official",

@@ -1,90 +1,90 @@
 {
-    "basisdaten": {
-      "id": "dynamo-dresden",
-      "slug": "dynamo-dresden",
-      "name": "SG Dynamo Dresden",
-      "short_name": "Dynamo",
-      "sport": "fussball",
-      "country": "deutschland",
-      "league": "zweite-bundesliga",
-      "city": "Dresden",
-      "federal_state": "Sachsen",
-      "stadium_name": "Rudolf-Harbig-Stadion",
-      "stadium_location": "Lennéstraße 12, 01069 Dresden",
-      "stadium_capacity": 32249,
-      "primary_colors_text": "Schwarz, Gelb"
+  "basisdaten": {
+    "id": "dynamo-dresden",
+    "slug": "dynamo-dresden",
+    "name": "SG Dynamo Dresden",
+    "short_name": "Dynamo",
+    "sport": "fussball",
+    "country": "deutschland",
+    "league": "zweite-bundesliga",
+    "city": "Dresden",
+    "federal_state": "Sachsen",
+    "stadium_name": "Rudolf-Harbig-Stadion",
+    "stadium_location": "Lennéstraße 12, 01069 Dresden",
+    "stadium_capacity": 32249,
+    "primary_colors_text": "Schwarz, Gelb"
+  },
+  "offizielle_quellen": [
+    {
+      "url": "https://www.dynamo-dresden.de",
+      "name": "Offizielle Website",
+      "category": "official",
+      "source_type": "official-club-site",
+      "trust_level": "official",
+      "notes": null
     },
-    "offizielle_quellen": [
-      {
-        "url": "https://www.dynamo-dresden.de",
-        "name": "Offizielle Website",
-        "category": "official",
-        "source_type": "official-club-site",
-        "trust_level": "official",
-        "notes": null
-      },
-      {
-        "url": "https://shop.dynamo-dresden.de",
-        "name": "Dynamo Fanshop",
-        "category": "official",
-        "source_type": "official-fanshop",
-        "trust_level": "official",
-        "notes": null
-      },
-      {
-        "url": "https://www.instagram.com/sgd1953",
-        "name": "Instagram",
-        "category": "official",
-        "source_type": "official-social",
-        "trust_level": "official",
-        "notes": null
-      }
-    ],
-    "inoffizielle_quellen": [
-      {
-        "url": "https://www.dynamofanforum.de",
-        "name": "Dynamo Fan Forum",
-        "category": "fan",
-        "source_type": "fan-forum",
-        "trust_level": "unofficial",
-        "notes": "Zentraler Treffpunkt"
-      }
-    ],
-    "daten_nachschlagen": [
-      {
-        "url": "https://www.transfermarkt.de/sg-dynamo-dresden/startseite/verein/65",
-        "name": "Transfermarkt Profil",
-        "category": "stats",
-        "source_type": "transfer-data",
-        "trust_level": "trusted-third-party",
-        "notes": null
-      }
-    ],
-    "medien_berichterstattung": [
-      {
-        "url": "https://www.saechsische.de/sport/fussball/dynamo-dresden",
-        "name": "Sächsische Zeitung (Dynamo)",
-        "category": "media",
-        "source_type": "local-media",
-        "trust_level": "trusted-third-party",
-        "notes": null
-      }
-    ],
-    "stadion_matchday": [
-      {
-        "url": "https://www.dynamo-dresden.de/stadion/anreise",
-        "name": "Anreise Stadion",
-        "category": "stadium",
-        "source_type": "travel-info",
-        "trust_level": "official",
-        "notes": null
-      }
-    ],
-    "metadaten": {
-      "last_checked": "2026-04-09T03:10:00Z",
-      "confidence": 1.0,
-      "notes": "Daten für Batch 2 aktualisiert.",
-      "missing_fields": [],
-      "update_priority": "medium"
+    {
+      "url": "https://shop.dynamo-dresden.de",
+      "name": "Dynamo Fanshop",
+      "category": "official",
+      "source_type": "official-fanshop",
+      "trust_level": "official",
+      "notes": null
+    },
+    {
+      "url": "https://www.instagram.com/sgd1953",
+      "name": "Instagram",
+      "category": "official",
+      "source_type": "official-social",
+      "trust_level": "official",
+      "notes": null
     }
+  ],
+  "inoffizielle_quellen": [
+    {
+      "url": "https://www.dynamofanforum.de",
+      "name": "Dynamo Fan Forum",
+      "category": "fan",
+      "source_type": "fan-forum",
+      "trust_level": "unofficial",
+      "notes": "Zentraler Treffpunkt"
+    }
+  ],
+  "daten_nachschlagen": [
+    {
+      "url": "https://www.transfermarkt.de/sg-dynamo-dresden/startseite/verein/65",
+      "name": "Transfermarkt Profil",
+      "category": "stats",
+      "source_type": "transfer-data",
+      "trust_level": "trusted-third-party",
+      "notes": null
+    }
+  ],
+  "medien_berichterstattung": [
+    {
+      "url": "https://www.saechsische.de/sport/fussball/dynamo-dresden",
+      "name": "Sächsische Zeitung (Dynamo)",
+      "category": "media",
+      "source_type": "local-media",
+      "trust_level": "trusted-third-party",
+      "notes": null
+    }
+  ],
+  "stadion_matchday": [
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Rudolf-Harbig-Stadion",
+      "name": "Anfahrt (Google Maps)",
+      "category": "stadium",
+      "source_type": "travel-info",
+      "trust_level": "official",
+      "notes": null
+    }
+  ],
+  "metadaten": {
+    "last_checked": "2026-04-09T03:10:00Z",
+    "confidence": 1,
+    "notes": "Daten für Batch 2 aktualisiert.",
+    "missing_fields": [],
+    "update_priority": "medium"
+  }
 }

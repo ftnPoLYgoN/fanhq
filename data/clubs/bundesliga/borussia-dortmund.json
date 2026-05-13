@@ -88,8 +88,8 @@
   ],
   "stadion_matchday": [
     {
-      "url": "https://www.bvb.de/de/de/signal-iduna-park/anfahrt.html",
-      "name": "Stadion Anreise",
+      "url": "https://www.google.com/maps/search/?api=1&query=Signal%20Iduna%20Park",
+      "name": "Anfahrt (Google Maps)",
       "category": "stadium",
       "source_type": "travel-info",
       "trust_level": "official",
@@ -98,7 +98,7 @@
   ],
   "metadaten": {
     "last_checked": "2026-04-09T02:18:00Z",
-    "confidence": 1.0,
+    "confidence": 1,
     "notes": "Daten für Batch 1 aktualisiert.",
     "missing_fields": [],
     "update_priority": "medium"
