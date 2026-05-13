@@ -154,10 +154,13 @@ const Components = (() => {
           <div class="detail-section-title">${sec.icon} ${sec.title}</div>
           <div class="source-list">
             ${sources.map(s => `
-              <div class="source-item">
-                <a href="${s.url}" target="_blank" rel="noopener noreferrer" title="${s.name}">${s.name}</a>
-                <span class="trust-badge ${s.trust_level}">${TRUST_LABELS[s.trust_level] || s.trust_level}</span>
-              </div>
+              <a href="${s.url}" target="_blank" rel="noopener noreferrer" class="source-item" title="${s.name}">
+                <span class="source-name">${s.name}</span>
+                <div class="source-meta">
+                  <span class="trust-badge ${s.trust_level}">${TRUST_LABELS[s.trust_level] || s.trust_level}</span>
+                  <span class="external-icon">↗</span>
+                </div>
+              </a>
             `).join('')}
           </div>
         </div>
