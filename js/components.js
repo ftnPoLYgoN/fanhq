@@ -108,13 +108,8 @@ const Components = (() => {
       </style>
     `;
 
-    let scheduleUrl = '';
-    const tmSource = data.daten_nachschlagen?.find(s => s.url.includes('transfermarkt.de'));
-    if (tmSource) {
-      scheduleUrl = tmSource.url.replace('/startseite/', '/spielplan/');
-    } else {
-      scheduleUrl = `https://www.kicker.de/${leagueClass === 'zweite-bundesliga' ? '2-bundesliga' : leagueClass}/spieltag`;
-    }
+    // Clever Link: Google's native sports widget is the cleanest, ad-free mobile view for schedules
+    const scheduleUrl = `https://www.google.com/search?q=nächste+spiele+${encodeURIComponent(b.name)}`;
     const tableUrl = `https://www.kicker.de/${leagueClass === 'zweite-bundesliga' ? '2-bundesliga' : leagueClass}/tabelle`;
 
     const actionButtonsHTML = `
