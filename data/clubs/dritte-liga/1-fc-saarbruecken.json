@@ -62,8 +62,8 @@
   ],
   "medien_berichterstattung": [
     {
-      "url": "https://www.saarbruecker-zeitung.de/sport/sz-sport/1-fc-saarbruecken",
-      "name": "Saarbrücker Zeitung (FCS)",
+      "url": "https://www.sr.de/sr/home/sport/fussball_fcs_100.html",
+      "name": "SR Sport (FCS)",
       "category": "media",
       "source_type": "local-media",
       "trust_level": "trusted-third-party",
@@ -82,9 +82,9 @@
   ],
   "metadaten": {
     "last_checked": "2026-04-09T03:20:00Z",
-    "confidence": 1.0,
+    "confidence": 1,
     "notes": "Daten für Batch 3 aktualisiert.",
     "missing_fields": [],
     "update_priority": "medium"
   }
-}
+}\n

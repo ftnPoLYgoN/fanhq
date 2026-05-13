@@ -1,90 +1,90 @@
 {
-    "basisdaten": {
-      "id": "ssv-jahn-regensburg",
-      "slug": "ssv-jahn-regensburg",
-      "name": "SSV Jahn Regensburg",
-      "short_name": "Jahn",
-      "sport": "fussball",
-      "country": "deutschland",
-      "league": "dritte-liga",
-      "city": "Regensburg",
-      "federal_state": "Bayern",
-      "stadium_name": "Jahnstadion Regensburg",
-      "stadium_location": "Franz-Josef-Strauß-Allee 22, 93053 Regensburg",
-      "stadium_capacity": 15210,
-      "primary_colors_text": "Rot, Weiß"
+  "basisdaten": {
+    "id": "ssv-jahn-regensburg",
+    "slug": "ssv-jahn-regensburg",
+    "name": "SSV Jahn Regensburg",
+    "short_name": "Jahn",
+    "sport": "fussball",
+    "country": "deutschland",
+    "league": "dritte-liga",
+    "city": "Regensburg",
+    "federal_state": "Bayern",
+    "stadium_name": "Jahnstadion Regensburg",
+    "stadium_location": "Franz-Josef-Strauß-Allee 22, 93053 Regensburg",
+    "stadium_capacity": 15210,
+    "primary_colors_text": "Rot, Weiß"
+  },
+  "offizielle_quellen": [
+    {
+      "url": "https://www.ssv-jahn.de",
+      "name": "Offizielle Website",
+      "category": "official",
+      "source_type": "official-club-site",
+      "trust_level": "official",
+      "notes": null
     },
-    "offizielle_quellen": [
-      {
-        "url": "https://www.ssv-jahn.de",
-        "name": "Offizielle Website",
-        "category": "official",
-        "source_type": "official-club-site",
-        "trust_level": "official",
-        "notes": null
-      },
-      {
-        "url": "https://www.ssv-jahnshop.de",
-        "name": "Jahn Fanshop",
-        "category": "official",
-        "source_type": "official-fanshop",
-        "trust_level": "official",
-        "notes": null
-      },
-      {
-        "url": "https://www.instagram.com/ssv_jahn_regensburg",
-        "name": "Instagram",
-        "category": "official",
-        "source_type": "official-social",
-        "trust_level": "official",
-        "notes": null
-      }
-    ],
-    "inoffizielle_quellen": [
-      {
-        "url": "https://jahnfans.de",
-        "name": "Jahnforum",
-        "category": "fan",
-        "source_type": "fan-forum",
-        "trust_level": "unofficial",
-        "notes": "Fan-Community"
-      }
-    ],
-    "daten_nachschlagen": [
-      {
-        "url": "https://www.transfermarkt.de/ssv-jahn-regensburg/startseite/verein/44",
-        "name": "Transfermarkt Profil",
-        "category": "stats",
-        "source_type": "transfer-data",
-        "trust_level": "trusted-third-party",
-        "notes": null
-      }
-    ],
-    "medien_berichterstattung": [
-      {
-        "url": "https://www.mittelbayerische.de/sport/regional/ssv-jahn",
-        "name": "Mittelbayerische (Jahn)",
-        "category": "media",
-        "source_type": "local-media",
-        "trust_level": "trusted-third-party",
-        "notes": null
-      }
-    ],
-    "stadion_matchday": [
-      {
-        "url": "https://www.ssv-jahn.de/stadion/anreise",
-        "name": "Anfahrt Jahnstadion",
-        "category": "stadium",
-        "source_type": "travel-info",
-        "trust_level": "official",
-        "notes": null
-      }
-    ],
-    "metadaten": {
-      "last_checked": "2026-04-09T03:55:00Z",
-      "confidence": 1.0,
-      "notes": "Daten für Batch 3 aktualisiert.",
-      "missing_fields": [],
-      "update_priority": "medium"
+    {
+      "url": "https://www.ssv-jahnshop.de",
+      "name": "Jahn Fanshop",
+      "category": "official",
+      "source_type": "official-fanshop",
+      "trust_level": "official",
+      "notes": null
+    },
+    {
+      "url": "https://www.instagram.com/ssv_jahn_regensburg",
+      "name": "Instagram",
+      "category": "official",
+      "source_type": "official-social",
+      "trust_level": "official",
+      "notes": null
     }
-}
+  ],
+  "inoffizielle_quellen": [
+    {
+      "url": "https://jahnfans.de",
+      "name": "Jahnforum",
+      "category": "fan",
+      "source_type": "fan-forum",
+      "trust_level": "unofficial",
+      "notes": "Fan-Community"
+    }
+  ],
+  "daten_nachschlagen": [
+    {
+      "url": "https://www.transfermarkt.de/ssv-jahn-regensburg/startseite/verein/44",
+      "name": "Transfermarkt Profil",
+      "category": "stats",
+      "source_type": "transfer-data",
+      "trust_level": "trusted-third-party",
+      "notes": null
+    }
+  ],
+  "medien_berichterstattung": [
+    {
+      "url": "https://www.br.de/nachrichten/sport/ssv-jahn-regensburg",
+      "name": "BR Sport (Jahn)",
+      "category": "media",
+      "source_type": "local-media",
+      "trust_level": "trusted-third-party",
+      "notes": null
+    }
+  ],
+  "stadion_matchday": [
+    {
+      "url": "https://www.ssv-jahn.de/stadion/anreise",
+      "name": "Anfahrt Jahnstadion",
+      "category": "stadium",
+      "source_type": "travel-info",
+      "trust_level": "official",
+      "notes": null
+    }
+  ],
+  "metadaten": {
+    "last_checked": "2026-04-09T03:55:00Z",
+    "confidence": 1,
+    "notes": "Daten für Batch 3 aktualisiert.",
+    "missing_fields": [],
+    "update_priority": "medium"
+  }
+}\n

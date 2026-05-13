@@ -1,90 +1,90 @@
 {
-    "basisdaten": {
-      "id": "fc-ingolstadt-04",
-      "slug": "fc-ingolstadt-04",
-      "name": "FC Ingolstadt 04",
-      "short_name": "Schanzer",
-      "sport": "fussball",
-      "country": "deutschland",
-      "league": "dritte-liga",
-      "city": "Ingolstadt",
-      "federal_state": "Bayern",
-      "stadium_name": "Audi Sportpark",
-      "stadium_location": "Am Sportpark 1b, 85053 Ingolstadt",
-      "stadium_capacity": 15200,
-      "primary_colors_text": "Schwarz, Rot"
+  "basisdaten": {
+    "id": "fc-ingolstadt-04",
+    "slug": "fc-ingolstadt-04",
+    "name": "FC Ingolstadt 04",
+    "short_name": "Schanzer",
+    "sport": "fussball",
+    "country": "deutschland",
+    "league": "dritte-liga",
+    "city": "Ingolstadt",
+    "federal_state": "Bayern",
+    "stadium_name": "Audi Sportpark",
+    "stadium_location": "Am Sportpark 1b, 85053 Ingolstadt",
+    "stadium_capacity": 15200,
+    "primary_colors_text": "Schwarz, Rot"
+  },
+  "offizielle_quellen": [
+    {
+      "url": "https://www.fcingolstadt.de",
+      "name": "Offizielle Website",
+      "category": "official",
+      "source_type": "official-club-site",
+      "trust_level": "official",
+      "notes": null
     },
-    "offizielle_quellen": [
-      {
-        "url": "https://www.fcingolstadt.de",
-        "name": "Offizielle Website",
-        "category": "official",
-        "source_type": "official-club-site",
-        "trust_level": "official",
-        "notes": null
-      },
-      {
-        "url": "https://www.fcingolstadt-shop.de",
-        "name": "Schanzer Fanshop",
-        "category": "official",
-        "source_type": "official-fanshop",
-        "trust_level": "official",
-        "notes": null
-      },
-      {
-        "url": "https://www.instagram.com/fcingolstadt04_official",
-        "name": "Instagram",
-        "category": "official",
-        "source_type": "official-social",
-        "trust_level": "official",
-        "notes": null
-      }
-    ],
-    "inoffizielle_quellen": [
-      {
-        "url": "https://www.schanzer-forum.de",
-        "name": "Schanzer-Forum",
-        "category": "fan",
-        "source_type": "fan-forum",
-        "trust_level": "unofficial",
-        "notes": "Fan-Zentrale"
-      }
-    ],
-    "daten_nachschlagen": [
-      {
-        "url": "https://www.transfermarkt.de/fc-ingolstadt-04/startseite/verein/2382",
-        "name": "Transfermarkt Profil",
-        "category": "stats",
-        "source_type": "transfer-data",
-        "trust_level": "trusted-third-party",
-        "notes": null
-      }
-    ],
-    "medien_berichterstattung": [
-      {
-        "url": "https://www.donaukurier.de/sport/fussball/fc-ingolstadt",
-        "name": "Donaukurier (FCI)",
-        "category": "media",
-        "source_type": "local-media",
-        "trust_level": "trusted-third-party",
-        "notes": null
-      }
-    ],
-    "stadion_matchday": [
-      {
-        "url": "https://www.fcingolstadt.de/stadion/ruhrstadion/anreise",
-        "name": "Anreise Audi Sportpark",
-        "category": "stadium",
-        "source_type": "travel-info",
-        "trust_level": "official",
-        "notes": null
-      }
-    ],
-    "metadaten": {
-      "last_checked": "2026-04-09T03:30:00Z",
-      "confidence": 1.0,
-      "notes": "Daten für Batch 3 aktualisiert.",
-      "missing_fields": [],
-      "update_priority": "medium"
+    {
+      "url": "https://www.fcingolstadt-shop.de",
+      "name": "Schanzer Fanshop",
+      "category": "official",
+      "source_type": "official-fanshop",
+      "trust_level": "official",
+      "notes": null
+    },
+    {
+      "url": "https://www.instagram.com/fcingolstadt04_official",
+      "name": "Instagram",
+      "category": "official",
+      "source_type": "official-social",
+      "trust_level": "official",
+      "notes": null
     }
-}
+  ],
+  "inoffizielle_quellen": [
+    {
+      "url": "https://www.schanzer-forum.de",
+      "name": "Schanzer-Forum",
+      "category": "fan",
+      "source_type": "fan-forum",
+      "trust_level": "unofficial",
+      "notes": "Fan-Zentrale"
+    }
+  ],
+  "daten_nachschlagen": [
+    {
+      "url": "https://www.transfermarkt.de/fc-ingolstadt-04/startseite/verein/2382",
+      "name": "Transfermarkt Profil",
+      "category": "stats",
+      "source_type": "transfer-data",
+      "trust_level": "trusted-third-party",
+      "notes": null
+    }
+  ],
+  "medien_berichterstattung": [
+    {
+      "url": "https://www.kicker.de/fc-ingolstadt-04/info",
+      "name": "Kicker (Ingolstadt)",
+      "category": "media",
+      "source_type": "local-media",
+      "trust_level": "trusted-third-party",
+      "notes": null
+    }
+  ],
+  "stadion_matchday": [
+    {
+      "url": "https://www.fcingolstadt.de/stadion/ruhrstadion/anreise",
+      "name": "Anreise Audi Sportpark",
+      "category": "stadium",
+      "source_type": "travel-info",
+      "trust_level": "official",
+      "notes": null
+    }
+  ],
+  "metadaten": {
+    "last_checked": "2026-04-09T03:30:00Z",
+    "confidence": 1,
+    "notes": "Daten für Batch 3 aktualisiert.",
+    "missing_fields": [],
+    "update_priority": "medium"
+  }
+}\n

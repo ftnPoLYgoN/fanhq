@@ -70,7 +70,7 @@
   ],
   "medien_berichterstattung": [
     {
-      "url": "https://www.reviersport.de/fussball/3liga/rwe.html",
+      "url": "https://www.reviersport.de/vereine/rot-weiss-essen/",
       "name": "RevierSport (RWE)",
       "category": "media",
       "source_type": "local-media",
@@ -90,9 +90,9 @@
   ],
   "metadaten": {
     "last_checked": "2026-04-09T03:20:00Z",
-    "confidence": 1.0,
+    "confidence": 1,
     "notes": "Daten für Batch 3 aktualisiert.",
     "missing_fields": [],
     "update_priority": "medium"
   }
-}
+}\n

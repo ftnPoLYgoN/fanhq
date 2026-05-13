@@ -62,8 +62,8 @@
   ],
   "medien_berichterstattung": [
     {
-      "url": "https://www.freiepresse.de/sport/aue",
-      "name": "Freie Presse (Aue)",
+      "url": "https://www.mdr.de/sport/fussball_3l/erzgebirge-aue-100.html",
+      "name": "MDR Sport (Aue)",
       "category": "media",
       "source_type": "local-media",
       "trust_level": "trusted-third-party",
@@ -82,9 +82,9 @@
   ],
   "metadaten": {
     "last_checked": "2026-04-09T03:30:00Z",
-    "confidence": 1.0,
+    "confidence": 1,
     "notes": "Daten für Batch 3 aktualisiert.",
     "missing_fields": [],
     "update_priority": "medium"
   }
-}
+}\n

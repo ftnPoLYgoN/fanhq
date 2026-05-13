@@ -1,90 +1,90 @@
 {
-    "basisdaten": {
-      "id": "viktoria-koeln",
-      "slug": "viktoria-koeln",
-      "name": "FC Viktoria Köln",
-      "short_name": "Viktoria",
-      "sport": "fussball",
-      "country": "deutschland",
-      "league": "dritte-liga",
-      "city": "Köln",
-      "federal_state": "Nordrhein-Westfalen",
-      "stadium_name": "Sportpark Höhenberg",
-      "stadium_location": "Günter-Kuxdorf-Weg 2, 51103 Köln",
-      "stadium_capacity": 8343,
-      "primary_colors_text": "Rot, Weiß, Schwarz"
+  "basisdaten": {
+    "id": "viktoria-koeln",
+    "slug": "viktoria-koeln",
+    "name": "FC Viktoria Köln",
+    "short_name": "Viktoria",
+    "sport": "fussball",
+    "country": "deutschland",
+    "league": "dritte-liga",
+    "city": "Köln",
+    "federal_state": "Nordrhein-Westfalen",
+    "stadium_name": "Sportpark Höhenberg",
+    "stadium_location": "Günter-Kuxdorf-Weg 2, 51103 Köln",
+    "stadium_capacity": 8343,
+    "primary_colors_text": "Rot, Weiß, Schwarz"
+  },
+  "offizielle_quellen": [
+    {
+      "url": "https://www.viktoria1904.de",
+      "name": "Offizielle Website",
+      "category": "official",
+      "source_type": "official-club-site",
+      "trust_level": "official",
+      "notes": null
     },
-    "offizielle_quellen": [
-      {
-        "url": "https://www.viktoria1904.de",
-        "name": "Offizielle Website",
-        "category": "official",
-        "source_type": "official-club-site",
-        "trust_level": "official",
-        "notes": null
-      },
-      {
-        "url": "https://shop.viktoria1904.de",
-        "name": "Viktoria Fanshop",
-        "category": "official",
-        "source_type": "official-fanshop",
-        "trust_level": "official",
-        "notes": null
-      },
-      {
-        "url": "https://www.instagram.com/viktoriakoeln",
-        "name": "Instagram",
-        "category": "official",
-        "source_type": "official-social",
-        "trust_level": "official",
-        "notes": null
-      }
-    ],
-    "inoffizielle_quellen": [
-      {
-        "url": "https://www.viktoria1904.de/fans/fancenter",
-        "name": "Fancenter",
-        "category": "fan",
-        "source_type": "fan-portal",
-        "trust_level": "unofficial",
-        "notes": "Club-naher Fantreff"
-      }
-    ],
-    "daten_nachschlagen": [
-      {
-        "url": "https://www.transfermarkt.de/viktoria-koln/startseite/verein/1332",
-        "name": "Transfermarkt Profil",
-        "category": "stats",
-        "source_type": "transfer-data",
-        "trust_level": "trusted-third-party",
-        "notes": null
-      }
-    ],
-    "medien_berichterstattung": [
-      {
-        "url": "https://www.express.de/sport/fussball/viktoria-koeln",
-        "name": "Express (Viktoria)",
-        "category": "media",
-        "source_type": "local-media",
-        "trust_level": "trusted-third-party",
-        "notes": null
-      }
-    ],
-    "stadion_matchday": [
-      {
-        "url": "https://www.viktoria1904.de/verein/stadion/anreise",
-        "name": "Anreise Höhenberg",
-        "category": "stadium",
-        "source_type": "travel-info",
-        "trust_level": "official",
-        "notes": null
-      }
-    ],
-    "metadaten": {
-      "last_checked": "2026-04-09T03:55:00Z",
-      "confidence": 1.0,
-      "notes": "Daten für Batch 3 aktualisiert.",
-      "missing_fields": [],
-      "update_priority": "medium"
+    {
+      "url": "https://shop.viktoria1904.de",
+      "name": "Viktoria Fanshop",
+      "category": "official",
+      "source_type": "official-fanshop",
+      "trust_level": "official",
+      "notes": null
+    },
+    {
+      "url": "https://www.instagram.com/viktoriakoeln",
+      "name": "Instagram",
+      "category": "official",
+      "source_type": "official-social",
+      "trust_level": "official",
+      "notes": null
     }
-}
+  ],
+  "inoffizielle_quellen": [
+    {
+      "url": "https://www.viktoria1904.de/fans/fancenter",
+      "name": "Fancenter",
+      "category": "fan",
+      "source_type": "fan-portal",
+      "trust_level": "unofficial",
+      "notes": "Club-naher Fantreff"
+    }
+  ],
+  "daten_nachschlagen": [
+    {
+      "url": "https://www.transfermarkt.de/viktoria-koln/startseite/verein/1332",
+      "name": "Transfermarkt Profil",
+      "category": "stats",
+      "source_type": "transfer-data",
+      "trust_level": "trusted-third-party",
+      "notes": null
+    }
+  ],
+  "medien_berichterstattung": [
+    {
+      "url": "https://www1.wdr.de/sport/fussball/dritte-liga/uebersicht-viktoria-koeln-100.html",
+      "name": "WDR Sport (Viktoria)",
+      "category": "media",
+      "source_type": "local-media",
+      "trust_level": "trusted-third-party",
+      "notes": null
+    }
+  ],
+  "stadion_matchday": [
+    {
+      "url": "https://www.viktoria1904.de/verein/stadion/anreise",
+      "name": "Anreise Höhenberg",
+      "category": "stadium",
+      "source_type": "travel-info",
+      "trust_level": "official",
+      "notes": null
+    }
+  ],
+  "metadaten": {
+    "last_checked": "2026-04-09T03:55:00Z",
+    "confidence": 1,
+    "notes": "Daten für Batch 3 aktualisiert.",
+    "missing_fields": [],
+    "update_priority": "medium"
+  }
+}\n

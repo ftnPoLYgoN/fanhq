@@ -62,8 +62,8 @@
   ],
   "medien_berichterstattung": [
     {
-      "url": "https://www.saarbruecker-zeitung.de/sport/sz-sport/sv-elversberg",
-      "name": "Saarbrücker Zeitung (SVE)",
+      "url": "https://www.sr.de/sr/home/sport/fussball_sve_100.html",
+      "name": "SR Sport (SVE)",
       "category": "media",
       "source_type": "local-media",
       "trust_level": "trusted-third-party",
@@ -82,9 +82,9 @@
   ],
   "metadaten": {
     "last_checked": "2026-04-09T03:00:00Z",
-    "confidence": 1.0,
+    "confidence": 1,
     "notes": "Daten für Batch 2 aktualisiert.",
     "missing_fields": [],
     "update_priority": "medium"
   }
-}
+}\n

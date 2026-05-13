@@ -1,90 +1,90 @@
 {
-    "basisdaten": {
-      "id": "ssv-ulm-1846",
-      "slug": "ssv-ulm-1846",
-      "name": "SSV Ulm 1846 Fußball",
-      "short_name": "Spatzen",
-      "sport": "fussball",
-      "country": "deutschland",
-      "league": "dritte-liga",
-      "city": "Ulm",
-      "federal_state": "Baden-Württemberg",
-      "stadium_name": "Donaustadion",
-      "stadium_location": "Stadionstraße 5, 89073 Ulm",
-      "stadium_capacity": 19500,
-      "primary_colors_text": "Schwarz, Weiß"
+  "basisdaten": {
+    "id": "ssv-ulm-1846",
+    "slug": "ssv-ulm-1846",
+    "name": "SSV Ulm 1846 Fußball",
+    "short_name": "Spatzen",
+    "sport": "fussball",
+    "country": "deutschland",
+    "league": "dritte-liga",
+    "city": "Ulm",
+    "federal_state": "Baden-Württemberg",
+    "stadium_name": "Donaustadion",
+    "stadium_location": "Stadionstraße 5, 89073 Ulm",
+    "stadium_capacity": 19500,
+    "primary_colors_text": "Schwarz, Weiß"
+  },
+  "offizielle_quellen": [
+    {
+      "url": "https://www.ssvulm1846-fussball.de",
+      "name": "Offizielle Website",
+      "category": "official",
+      "source_type": "official-club-site",
+      "trust_level": "official",
+      "notes": null
     },
-    "offizielle_quellen": [
-      {
-        "url": "https://www.ssvulm1846-fussball.de",
-        "name": "Offizielle Website",
-        "category": "official",
-        "source_type": "official-club-site",
-        "trust_level": "official",
-        "notes": null
-      },
-      {
-        "url": "https://shop.ssvulm1846-fussball.de",
-        "name": "Spatzen Fanshop",
-        "category": "official",
-        "source_type": "official-fanshop",
-        "trust_level": "official",
-        "notes": null
-      },
-      {
-        "url": "https://www.instagram.com/ssvulm1846",
-        "name": "Instagram",
-        "category": "official",
-        "source_type": "official-social",
-        "trust_level": "official",
-        "notes": null
-      }
-    ],
-    "inoffizielle_quellen": [
-      {
-        "url": "https://www.d-block-donaustadion.de",
-        "name": "D-Block Donaustadion",
-        "category": "fan",
-        "source_type": "fan-portal",
-        "trust_level": "unofficial",
-        "notes": "Fan-Seite"
-      }
-    ],
-    "daten_nachschlagen": [
-      {
-        "url": "https://www.transfermarkt.de/ssv-ulm-1846/startseite/verein/210",
-        "name": "Transfermarkt Profil",
-        "category": "stats",
-        "source_type": "transfer-data",
-        "trust_level": "trusted-third-party",
-        "notes": null
-      }
-    ],
-    "medien_berichterstattung": [
-      {
-        "url": "https://www.swp.de/sport/fussball/ssv-ulm-1846",
-        "name": "Südwest Presse (Ulm)",
-        "category": "media",
-        "source_type": "local-media",
-        "trust_level": "trusted-third-party",
-        "notes": null
-      }
-    ],
-    "stadion_matchday": [
-      {
-        "url": "https://www.ssvulm1846-fussball.de/stadion/anreise",
-        "name": "Anreise Donaustadion",
-        "category": "stadium",
-        "source_type": "travel-info",
-        "trust_level": "official",
-        "notes": null
-      }
-    ],
-    "metadaten": {
-      "last_checked": "2026-04-09T03:55:00Z",
-      "confidence": 1.0,
-      "notes": "Daten für Batch 3 aktualisiert.",
-      "missing_fields": [],
-      "update_priority": "medium"
+    {
+      "url": "https://shop.ssvulm1846-fussball.de",
+      "name": "Spatzen Fanshop",
+      "category": "official",
+      "source_type": "official-fanshop",
+      "trust_level": "official",
+      "notes": null
+    },
+    {
+      "url": "https://www.instagram.com/ssvulm1846",
+      "name": "Instagram",
+      "category": "official",
+      "source_type": "official-social",
+      "trust_level": "official",
+      "notes": null
     }
-}
+  ],
+  "inoffizielle_quellen": [
+    {
+      "url": "https://www.d-block-donaustadion.de",
+      "name": "D-Block Donaustadion",
+      "category": "fan",
+      "source_type": "fan-portal",
+      "trust_level": "unofficial",
+      "notes": "Fan-Seite"
+    }
+  ],
+  "daten_nachschlagen": [
+    {
+      "url": "https://www.transfermarkt.de/ssv-ulm-1846/startseite/verein/210",
+      "name": "Transfermarkt Profil",
+      "category": "stats",
+      "source_type": "transfer-data",
+      "trust_level": "trusted-third-party",
+      "notes": null
+    }
+  ],
+  "medien_berichterstattung": [
+    {
+      "url": "https://www.swp.de/sport/ssv-ulm/",
+      "name": "Südwest Presse (Ulm)",
+      "category": "media",
+      "source_type": "local-media",
+      "trust_level": "trusted-third-party",
+      "notes": null
+    }
+  ],
+  "stadion_matchday": [
+    {
+      "url": "https://www.ssvulm1846-fussball.de/stadion/anreise",
+      "name": "Anreise Donaustadion",
+      "category": "stadium",
+      "source_type": "travel-info",
+      "trust_level": "official",
+      "notes": null
+    }
+  ],
+  "metadaten": {
+    "last_checked": "2026-04-09T03:55:00Z",
+    "confidence": 1,
+    "notes": "Daten für Batch 3 aktualisiert.",
+    "missing_fields": [],
+    "update_priority": "medium"
+  }
+}\n
